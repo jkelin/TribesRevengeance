@@ -13,111 +13,111 @@ Further description and instructions are coming soon!
   
   
 
-## [abir Mortar Trail v1](fx/abirMortarTrailv1.zip)
+## [abir Mortar Trail v1]({{ site.downloads_url | append: "/customization2/Customization/FX/abirMortarTrailv1.zip" }})
 
 Mortar Trail effect. Readme included.
 
   
   
 
-## [BoDeans Special Effects v1.3](fx/BoDeansFX_v1.3.zip)
+## [BoDeans Special Effects v1.3]({{ site.downloads_url | append: "/customization2/Customization/FX/BoDeansFX_v1.3.zip" }})
 
 BoDeans' FX. Readme included.
 
   
   
 
-## [BoDeans Special Effects v1.4](fx/BoDeansFX_v1.4.zip)
+## [BoDeans Special Effects v1.4]({{ site.downloads_url | append: "/customization2/Customization/FX/BoDeansFX_v1.4.zip" }})
 
 BoDeans' FX. Readme included.
 
   
   
 
-## [BoDeans Rocket Disc](fx/BoDeansRocketDisc.rar)
+## [BoDeans Rocket Disc]({{ site.downloads_url | append: "/customization2/Customization/FX/BoDeansRocketDisc.rar" }})
 
 BoDeans' rocket disc. Readme included.
 
   
   
 
-## [Colored smoke trails](fx/coloredSmokeTrails.rar)
+## [Colored smoke trails]({{ site.downloads_url | append: "/customization2/Customization/FX/coloredSmokeTrails.rar" }})
 
 Projectile trail effects. Readme included.
 
   
   
 
-## [FireFeet](fx/FireFeet.rar)
+## [FireFeet]({{ site.downloads_url | append: "/customization2/Customization/FX/FireFeet.rar" }})
 
 Skiing effect. Readme included.
 
   
   
 
-## [Lightning Ski](fx/LightningSki.rar)
+## [Lightning Ski]({{ site.downloads_url | append: "/customization2/Customization/FX/LightningSki.rar" }})
 
 Skiing effect. Readme included.
 
   
   
 
-## [New Repair](fx/NewRepair.zip)
+## [New Repair]({{ site.downloads_url | append: "/customization2/Customization/FX/NewRepair.zip" }})
 
 Repair effect. Readme included.
 
   
   
 
-## [No Trails](fx/noTrails.rar)
+## [No Trails]({{ site.downloads_url | append: "/customization2/Customization/FX/noTrails.rar" }})
 
 Trail effect. Readme included.
 
   
   
 
-## [PoisonOak projectile trails and explosion pack](fx/p.os_FINAL_Trails.zip)
+## [PoisonOak projectile trails and explosion pack]({{ site.downloads_url | append: "/customization2/Customization/FX/p.os_FINAL_Trails.zip" }})
 
 Several effects. Readme included. By PoisonOak.
 
   
   
 
-## [PoisonOak explos+Trails](fx/PoisonOaks_Fiery_ExplosTrs.zip)
+## [PoisonOak explos+Trails]({{ site.downloads_url | append: "/customization2/Customization/FX/PoisonOaks_Fiery_ExplosTrs.zip" }})
 
 Several effects. Readme included. By PoisonOak.
 
   
   
 
-## [PoisonOak Final Trails](fx/p.os_FINAL_Trails.zip)
+## [PoisonOak Final Trails]({{ site.downloads_url | append: "/customization2/Customization/FX/p.os_FINAL_Trails.zip" }})
 
 Trail effect. By PoisonOak.
 
   
   
 
-## [Rocket Effects](fx/RocketFX.zip)
+## [Rocket Effects]({{ site.downloads_url | append: "/customization2/Customization/FX/RocketFX.zip" }})
 
 Rocket pod effect. Readme included.
 
   
   
 
-## [Smoked](fx/JetTrails - Smoked.rar)
+## [Smoked]({{ site.downloads_url | append: "/customization2/Customization/FX/JetTrails - Smoked.rar" }})
 
 Trail smoke effect. Readme included.
 
   
   
 
-## [Smokeless](fx/smokeless.zip)
+## [Smokeless]({{ site.downloads_url | append: "/customization2/Customization/FX/smokeless.zip" }})
 
 No smoke effect to increase FPS. Readme included. By BoDean.
 
   
   
 
-## [Spinfusor effect](fx/TV_Spinfusor_FX.zip)
+## [Spinfusor effect]({{ site.downloads_url | append: "/customization2/Customization/FX/TV_Spinfusor_FX.zip" }})
 
 Bodean's spinfusor effect. Readme included.

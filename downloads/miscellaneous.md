@@ -14,7 +14,7 @@ At this stage, this page will only contain the most important and the most used 
   
   
 
-## [Tribes Vengeance Beta Devkit](miscellaneous/tribesv_beta_devkit.rar)
+## [Tribes Vengeance Beta Devkit]({{ site.downloads_url | append: "/other/tribesv_beta_devkit.rar" }})
 
 Tribes Vengeance Beta Dev Kit.
 
@@ -22,7 +22,7 @@ For this to work, it requires you to have the full game installed and the v1.01 
 
 Be sure to read the included readme, to get knowledge of known issues, user agreement and more detailed installation instructions.
 
-## [Tribes Vengeance Beta Tools](miscellaneous/TVtoolsBeta.exe)
+## [Tribes Vengeance Beta Tools]({{ site.downloads_url | append: "/other/TVtoolsBeta.exe" }})
 
 Tribes Vengeance Beta Tools.
 
@@ -33,14 +33,14 @@ The full game version, as well as the provided Revengeance downloads on this web
   
   
 
-## [Tribes Vengeance Cache Manager](miscellaneous/TVCacheManager.zip)
+## [Tribes Vengeance Cache Manager]({{ site.downloads_url | append: "/other/TVCacheManager.zip" }})
 
 The Tribes Vengeance Cache Manager is a handy, little tool, that helps you turning your cache files into permanent files, in just a few clicks! Tribes Vengeance cache files are temporary files, downloaded when trying to join a server to play on. Whenever you do not own a file that is currently being used on the server you try to join, your game will download the file. This usually includes maps or mods.
 
 An extensive guide for using the Tribes Vengeance Cache Manager, can be found [here](/tutorials/miscellaneous/cachemanager).
   
 
-## [Tribes Vengeance CD keys](miscellaneous/20000tv_keys.txt)
+## [Tribes Vengeance CD keys]({{ site.downloads_url | append: "/other/20000tv_keys.txt" }})
 
 This file contains 20000 Tribes Vengeance CD keys. In order to get the game to run perfectly, you still need to enter a CD key. You must enter this key into the **Tribes Vengeance Key Changer**.
 
@@ -51,42 +51,42 @@ If you have used a key, please let us know on our [forum](/forum/index) or by [c
   
   
 
-## [Tribes Vengeance Key Changer](miscellaneous/tvkeychanger.zip)
+## [Tribes Vengeance Key Changer]({{ site.downloads_url | append: "/other/tvkeychanger.zip" }})
 
 Tribes Vengeance Key Changer. This tool will change set your game CD key to any key you enter. Valid CD keys can be found in the download **below**. In order for this tool to work correctly you must place it in your **VUGames\Tribes Vengeance\Program\Bin** folder and run it as **administrator**. A more extensive guide on how to get Tribes Vengeance started, can be found [here](/tutorials/gettingstarted/gettingstartedguide).
 
   
   
 
-## [Tribes Vengeance No CD fix](miscellaneous/nocd.rar)
+## [Tribes Vengeance No CD fix]({{ site.downloads_url | append: "/other/nocd.rar" }})
 
 If you have installed the game by CD or DVD, you will need to insert the CD or DVD in order to play the game. This will make it so, that you no longer require to insert a valid CD or DVD, in order to boot Tribes Vengeance. Be sure to read the accompanied instructions. Further instructions coming soon!
 
   
   
 
-## [Tribes Vengeance Patch 1.01 EN](miscellaneous/tribesv_update_en_10_101.exe)
+## [Tribes Vengeance Patch 1.01 EN]({{ site.downloads_url | append: "/other/tribesv_update_en_10_101.exe" }})
 
 Updates your default Tribes Vengeance installation. A must have, if you want to play online. English version.
 
   
   
 
-## [Tribes Vengeance Patch 1.01 GER](miscellaneous/tribesv_update_ger_10_101.exe)
+## [Tribes Vengeance Patch 1.01 GER]({{ site.downloads_url | append: "/other/tribesv_update_ger_10_101.exe" }})
 
 Updates your default Tribes Vengeance installation. A must have, if you want to play online. German version.
 
   
   
 
-## [Tribes Vengeance Pure Multiplayer](miscellaneous/TV_PureMP.rar)
+## [Tribes Vengeance Pure Multiplayer]({{ site.downloads_url | append: "/other/TV_PureMP.rar" }})
 
 This will delete the Single Player Files of your Tribes Vengeance installation, making you Tribes Vengeance Multiplayer only. By doing this, you free up a lot of HDD space. It will also adjust the ingame menu accordingly.
 
   
   
 
-## [Tribes Vengeance QuickChat Maker](miscellaneous/qc maker-4.rar)
+## [Tribes Vengeance QuickChat Maker]({{ site.downloads_url | append: "/other/qc maker-4.rar" }})
 
 Creating your own customized Quickchat is now easier then ever, with this tool. By Fireant.
 

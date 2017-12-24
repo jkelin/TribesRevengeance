@@ -11,7 +11,7 @@ On this page you will find all available skins for Tribes Vengeance. Click on th
   
   
 
-## [BEWeapons](skins/BEWeapons.rar)
+## [BEWeapons]({{ site.downloads_url | append: "/customization2/Skins/BEWeapons.rar" }})
 
 Extract the zip file to your **...\VUGames\Tribes Vengeance** folder.
 
@@ -22,7 +22,7 @@ In order to activate them you have to open console and type " **exec dice.ini**"
   
   
 
-## [MaloxWeapons](skins/MaloxWeapons.rar)
+## [MaloxWeapons]({{ site.downloads_url | append: "/customization2/Skins/MaloxWeapons.rar" }})
 
 Extract the zip file to your **...\VUGames\Tribes Vengeance** folder. Readme file included.
 
@@ -33,7 +33,7 @@ In order to activate them you have to open console and type " **exec dice.ini**"
   
   
 
-## [PwndWeapons](skins/PwndWeapons.rar)
+## [PwndWeapons]({{ site.downloads_url | append: "/customization2/Skins/PwndWeapons.rar" }})
 
 Extract the zip file to your **...\VUGames\Tribes Vengeance** folder. Readme file included.
 
@@ -44,7 +44,7 @@ In order to activate them you have to open console and type " **exec dice.ini**"
   
   
 
-## [ViolatorWeapons](skins/ViolatorWeapons.rar)
+## [ViolatorWeapons]({{ site.downloads_url | append: "/customization2/Skins/ViolatorWeapons.rar" }})
 
 Extract the zip file to your **...\VUGames\Tribes Vengeance** folder. Readme file included.
 
@@ -55,7 +55,7 @@ In order to activate them you have to open console and type " **exec dice.ini**"
   
   
 
-## [WeaponSkinsDice](skins/WeaponSkinsDice.rar)
+## [WeaponSkinsDice]({{ site.downloads_url | append: "/customization2/Skins/WeaponSkinsDice.rar" }})
 
 Extract the content folder to your **...\VUGames\Tribes Vengeance** folder. Readme file included.
 
@@ -66,6 +66,6 @@ In order to activate them you have to open console and type " **exec dice.ini**"
   
   
 
-## [Mega Skin Pack](skins/skins226.exe)
+## [Mega Skin Pack]({{ site.downloads_url | append: "/customization2/Skins/skins226.exe" }})
 
 Run the executable file. Link it to your **...\VUGames\Tribes Vengeance\** folder and press OK to start installing the skins.

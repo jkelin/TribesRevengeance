@@ -9,76 +9,76 @@ permalink: /downloads/customization/reticlesandcrusshairs/
 On this page you will find all available reticles and crosshairs for Tribes Vengeance. Click on the name of the given reticle/crosshair to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
 
 
-## [Badrastas Reticles](reticlesandcrosshairs/BadrastasRets.zip)
+## [Badrastas Reticles]({{ site.downloads_url | append: "/customization2/Customization/Reticles/BadrastasRets.zip" }})
 
 Readme file included.
 
   
   
 
-## [Dot Reticles](reticlesandcrosshairs/DotRets.zip)
+## [Dot Reticles]({{ site.downloads_url | append: "/customization2/Customization/Reticles/DotRets.zip" }})
 
 Readme file included.
 
   
   
 
-## [ilysret](reticlesandcrosshairs/ilysret.rar)
+## [ilysret]({{ site.downloads_url | append: "/customization2/Customization/Reticles/ilysret.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [LostAngel Reticles](reticlesandcrosshairs/LostAngelRets.zip)
+## [LostAngel Reticles]({{ site.downloads_url | append: "/customization2/Customization/Reticles/LostAngelRets.zip" }})
 
 Readme file included.
 
   
   
 
-## [Merc Reticles](reticlesandcrosshairs/MercRets.zip)
+## [Merc Reticles]({{ site.downloads_url | append: "/customization2/Customization/Reticles/MercRets.zip" }})
 
 Readme file included.
 
   
   
 
-## [Neo Dot](reticlesandcrosshairs/NeoDot.rar)
+## [Neo Dot]({{ site.downloads_url | append: "/customization2/Customization/Reticles/NeoDot.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [Pistol Poland](reticlesandcrosshairs/pistolpoland.rar)
+## [Pistol Poland]({{ site.downloads_url | append: "/customization2/Customization/Reticles/pistolpoland.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [Pron White Square](reticlesandcrosshairs/PronsWhiteSquare.zip)
+## [Pron White Square]({{ site.downloads_url | append: "/customization2/Customization/Reticles/PronsWhiteSquare.zip" }})
 
 Readme file included.
 
   
   
 
-## [Tribes 1 Reticle Pack Green](reticlesandcrosshairs/T1_ReticlePack_Green.rar)
+## [Tribes 1 Reticle Pack Green]({{ site.downloads_url | append: "/customization2/Customization/Reticles/T1_ReticlePack_Green.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [Tribes 1 Reticle Pack Red](reticlesandcrosshairs/T1_ReticlePack_Red.rar)
+## [Tribes 1 Reticle Pack Red]({{ site.downloads_url | append: "/customization2/Customization/Reticles/T1_ReticlePack_Red.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [WilsRets](reticlesandcrosshairs/WilsRets-TV-final.zip)
+## [WilsRets]({{ site.downloads_url | append: "/customization2/Customization/Reticles/WilsRets-TV-final.zip" }})
 
 Readme file included.

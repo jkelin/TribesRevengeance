@@ -9,63 +9,63 @@ permalink: /downloads/customization/hud/
 On this page you will find all available customized HUDs for Tribes Vengeance. Click on the name of the given HUD to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
 
 
-## [BlissHUD](hud/BlissHUD.zip)
+## [BlissHUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/BlissHUD.zip" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [EgoGUI](hud/EgoGUI.zip)
+## [EgoGUI]({{ site.downloads_url | append: "/customization2/Customization/HUDs/EgoGUI.zip" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [flufHUD](hud/flufhud.zip)
+## [flufHUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/flufhud.zip" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [gavHUD](hud/gavHUD.rar)
+## [gavHUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/gavHUD.rar" }})
 
 Readme included.
 
   
   
 
-## [Gumz HUD](hud/Gumz.Huds.zip)
+## [Gumz HUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/Gumz.Huds.zip" }})
 
 Readme included.
 
   
   
 
-## [jotun HUD 2](hud/jotunHUDs2.zip)
+## [jotun HUD 2]({{ site.downloads_url | append: "/customization2/Customization/HUDs/jotunHUDs2.zip" }})
 
 Readme included.
 
   
   
 
-## [jotun HUD 3](hud/jotunHUDs3.rar)
+## [jotun HUD 3]({{ site.downloads_url | append: "/customization2/Customization/HUDs/jotunHUDs3.rar" }})
 
 Readme included.
 
   
   
 
-## [Little Wing](hud/LittleWing.rar)
+## [Little Wing]({{ site.downloads_url | append: "/customization2/Customization/HUDs/LittleWing.rar" }})
 
 Description coming soon.
 
   
   
 
-## [Lost Angals minimal HUD](hud/LostAngels.minimal.HUD.rar)
+## [Lost Angals minimal HUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/LostAngels.minimal.HUD.rar" }})
 
 readme included.
 
