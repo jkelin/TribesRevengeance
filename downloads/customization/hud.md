@@ -72,69 +72,69 @@ readme included.
   
   
 
-## [MKY Def Plus HUD](hud/MKY_DefPlusHUD_1.zip)
+## [MKY Def Plus HUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/MKY_DefPlusHUD_1.zip" }})
 
 Readme included.
 
   
   
 
-## [MovieHUD](hud/MovieTribesHud.rar)
+## [MovieHUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/MovieTribesHud.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [MonkeyHero](hud/MonkeyHero.rar)
+## [MonkeyHero]({{ site.downloads_url | append: "/customization2/Customization/HUDs/MonkeyHero.rar" }})
 
 Description coming soon.
 
   
   
 
-## [pr0nhudV1](hud/pr0nhudV1.zip)
+## [pr0nhudV1]({{ site.downloads_url | append: "/customization2/Customization/HUDs/pr0nhudV1.zip" }})
 
 Readme included.
 
   
   
 
-## [Stantah HUD](hud/SantahHud.rar)
+## [Stantah HUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/SantahHud.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [Strega Tribes HUD](hud/stregatribeshud04-1024.zip)
+## [Strega Tribes HUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/stregatribeshud04-1024.zip" }})
 
 Readme included.
 
   
   
 
-## [SvenHUD](hud/SvenHUD.rar)
+## [SvenHUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/SvenHUD.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [Original HUD ini file](hud/TribesHUD.iniOriginal.rar)
+## [Original HUD ini file]({{ site.downloads_url | append: "/customization2/Customization/HUDs/TribesHUD.iniOriginal.rar" }})
 
 Original HUD ini file.
 
   
   
 
-## [MikHud](hud/TV-MikHud.rar)
+## [MikHud]({{ site.downloads_url | append: "/customization2/Customization/HUDs/TV-MikHud.rar" }})
 
 Description and instructions coming soon.
 
   
   
 
-## [Wizzy HUD](hud/Wizzyshud.exe)
+## [Wizzy HUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/Wizzyshud.exe" }})
 
 Readme included.
