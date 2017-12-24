@@ -9,10 +9,10 @@ permalink: /tutorials/performancetweaks/improvesmoothness/
 
 On this page you will find out how you can let your game run smoother.
 
-- 1. **Browse** to your **../VUGames/Tribes Vengeance/Program/Bin** folder and **find** your **TV\_CD\_DVD.ini** file.
-- 2. **Open** the file by using a text editing program, like notepad. 
-- 3. **Find** the following, by using CTRL + F: **[Engine.GameEngine]**
-- 4. **Set**"CacheSizeMegs=56" to "**CacheSizeMegs=[GRAPHICAL PROCESSING UNIT RAM / 2]**"
+1. **Browse** to your **../VUGames/Tribes Vengeance/Program/Bin** folder and **find** your **TV\_CD\_DVD.ini** file.
+2. **Open** the file by using a text editing program, like notepad. 
+3. **Find** the following, by using CTRL + F: **[Engine.GameEngine]**
+4. **Set**"CacheSizeMegs=56" to "**CacheSizeMegs=[GRAPHICAL PROCESSING UNIT RAM / 2]**"
  ![](cachesize.jpg)  
 
 With "Graphical processing unit ram" we mean the amount of memory your graphics cards have. Does your GPU have 1GB memory, then use **516** as value. Does your graphics card have 2GB, use **1024** and so on.

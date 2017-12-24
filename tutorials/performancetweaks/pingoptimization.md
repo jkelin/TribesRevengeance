@@ -37,10 +37,10 @@ Before tweaking anything, it is always recommended making a **backup** of the fi
 
 You can decrease the lagg you experience while playing,by doing the following:
 
-- 1. **Start** Tribes Vengeance (preferably as administrator)
-- 2. Go to the **options**
-- 3. Go to the **network** tab
-- 4. Un-check **adjust connection speed while playing**
+1. **Start** Tribes Vengeance (preferably as administrator)
+2. Go to the **options**
+3. Go to the **network** tab
+4. Un-check **adjust connection speed while playing**
   
 
 ## Connection speed
@@ -49,10 +49,10 @@ You can decrease the lagg you experience while playing,by doing the following:
 
 You can decrease your ping by doing the following:
 
-- 1. **Start** Tribes Vengeance (preferably as administrator)
-- 2. Go to the **options**
-- 3. Go to the **network** tab
-- 4. Select **LAN/T1** connection speed
+1. **Start** Tribes Vengeance (preferably as administrator)
+2. Go to the **options**
+3. Go to the **network** tab
+4. Select **LAN/T1** connection speed
   
 
 Lets go a tad deeper on this one and explain how and why this is interesting, as well as explaining when or when not you should adjust this.
@@ -97,10 +97,9 @@ Another way to decrease your ping, is to use the "**netspeed [value]**" command 
 
 You can do this by following these steps:
 
-- 1. **Start** Tribes Vengeance (preferably as administrator)
-- 2. **Join** a Tribes Vengeance gameserver 
-- 3. **Open** your console by using the **TAB** - or **~** key.
-- 
+1. **Start** Tribes Vengeance (preferably as administrator)
+2. **Join** a Tribes Vengeance gameserver 
+3. **Open** your console by using the **TAB** - or **~** key.
 
 4. Type **netspeed [value]** in your console.
 

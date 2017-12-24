@@ -37,24 +37,21 @@ This, however, can be quite a difficult task as there may be a lot of files in t
 
 To correctly use the cache manager, please follow these steps:
 
-- 1. **[Download](/downloads/miscellaneous/TVCacheManager.zip)** the Cache Manager
-- 
-
+1. **[Download](/downloads/miscellaneous/TVCacheManager.zip)** the Cache Manager
 2. If you have installed Tribes (Re)Vengeance to a non default location, you may receive an error saying Tribes Vengeance can not be detected
 
 To solve this, go to **Options** , then to **Profiles** and then click on **Add...**
 
-- 3. **Enter** a **Profile Name** and press **Quick Setup**
-- 4. Navigate to your Tribes Vengeance installation map, select the folder and press **OK**
-- 5. All the fields should be filled in **automatically**
-- 6. Go to **Cache** ,then to **Profile** and select the profile you just made
-- 
+3. **Enter** a **Profile Name** and press **Quick Setup**
+4. Navigate to your Tribes Vengeance installation map, select the folder and press **OK**
+5. All the fields should be filled in **automatically**
+6. Go to **Cache** ,then to **Profile** and select the profile you just made
 
 7. Now you should see a window with several files in there. These files are the cache files you downloaded through the ingame.
 
 If this windows appears empty, it means you currently have no cache files for this specific Tribes Vengeance installation!
 
-- 8. Go to **View** , press **Select All** and then click on **Edit** and then on **Move**
+8. Go to **View** , press **Select All** and then click on **Edit** and then on **Move**
   
 
 You have now succesfully turned your temporary cache files into permanent files.

@@ -13,9 +13,9 @@ On this page you will find out how to enable the windowed mode.
 
 In order to enable windowed mode, you must follow these steps:
 
-- 1. **Find** or **create** a shortcut of your **TV\_CD\_DVD.exe**
-- 2. **Rightclick** the shortcut
-- 3. **Modify** the **target field** , by adding " **-windowed**" in the back (mind the whitespace)
+1. **Find** or **create** a shortcut of your **TV\_CD\_DVD.exe**
+2. **Rightclick** the shortcut
+3. **Modify** the **target field** , by adding " **-windowed**" in the back (mind the whitespace)
   
 
 So for example you get the following: **"C:\Program Files\VUGames\Tribes Vengeance\Program\Bin\TV\_CD\_DVD.exe" -windowed**

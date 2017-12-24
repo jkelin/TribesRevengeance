@@ -21,10 +21,10 @@ If you have a high-end graphics card, you may notice that value sits at a stable
 
   
 
-- 1. **Navigate** to your **../VUGames/Tribes Vengeance/Program/Bin** folder
-- 2. **Open** your **TV\_CD\_DVD.ini** file with a text-editing program, like notepad.
-- 3. **Find** the following line, by using CTRL + F: **[Engine.LevelInfo]**
-- 4. **Add** the following line: **bCapFramerate=False** 
+1. **Navigate** to your **../VUGames/Tribes Vengeance/Program/Bin** folder
+2. **Open** your **TV\_CD\_DVD.ini** file with a text-editing program, like notepad.
+3. **Find** the following line, by using CTRL + F: **[Engine.LevelInfo]**
+4. **Add** the following line: **bCapFramerate=False** 
  ![](uncapfps.jpg)
 
 NOTE: The picture shows [Engine.GameInfo], but that is wrong. The steps are correct and you need to add it to [Engine.LevelInfo]

@@ -306,7 +306,7 @@ Readme file included.
 
 Server management mod.
 
-This mod sends information to the [Tribesrevengeance.com](/) domain, so we can display ingame player performances on our [statistics](/stats) page.
+This mod sends information to the [Tribesrevengeance.com](/) domain, so we can display ingame player performances on our [statistics]({{ site.stats_url }}) page.
 
 s 
 
