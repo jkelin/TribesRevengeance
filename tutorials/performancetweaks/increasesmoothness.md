@@ -4,7 +4,7 @@ title: Improve Smoothness Tutorial
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, improve, smoothness, memory, cache
 description: Improve Smoothness Tutorial page. Here, you find out how to improve the smoothness of the game!
 date: 02/03/2014
-permalink: /tutorials/performancetweaks/improvesmoothness/
+permalink: /tutorials/performancetweaks/increasesmoothness/
 ---
 
 On this page you will find out how you can let your game run smoother.

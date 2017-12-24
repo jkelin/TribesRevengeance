@@ -24,7 +24,7 @@ Anti cheat mod.
 
 You can set the IRC channel to which it needs to report to and you can also choose whether to automatically ban or not, when a cheated has been dedected.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -35,7 +35,7 @@ Anti cheat mod.
 
 Disables a particular cheat. No option to set IRC channel or autoban, since it disables the cheat.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -46,7 +46,7 @@ Anti baserape mod. This mod can make base assets (such as the generator or the s
 
 You can set the minimum required amount of players, before base rape gets enabled again. It is also possible to customize which base assets should be proteced and which should not be. Furthermore, it is possible to set the time interval at which the mod checks for the amount of players.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -59,7 +59,7 @@ Anti teamkill mod.
 
 This mod removes players, based on their score. It can be adjusted whether people receive warning messages or not.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -83,7 +83,7 @@ Gameplay enhancement mod.
 
 This mod allows you to set the amount of ammo the grappler has, to choose whether or not to activate vehicles and you can enable or disable degrapple (this is explained below).
 
-Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -92,7 +92,7 @@ Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
 
 Gameplay enhancement mod.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -105,7 +105,7 @@ Gameplay enhancement mod.
 
 This mod does a number of things: it increases disc speed, it makes you spawn as a light, it reduces grappler ammo, disables vehicles, reduces shield pack power, makes base assets invulnerable for chaingun damage, it narrows the blaster spread, buffs the energy blade and much more.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -118,7 +118,7 @@ Gameplay enhancement mod.
 
 This mod does the same as **crybaby2** , plus a few extra things, like making burner ammo based, changing all base turrets to chainguns and some more things.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -142,7 +142,7 @@ Gameplay enhancement mod.
 
 This mod is very similar to Crybaby: it increases disc speed, reduces shield pack power, reduces grappler ammo, but also does some special things, like making it so that when you hit with the Energy Blade, you regain you energy and else you lose double. This mod has more features, be sure to read the accompanied readme file.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -155,7 +155,7 @@ Gameplay enhancement mod.
 
 This mod adds a special gameclass called **GrappleBall**. The goal here, is to grapple a ball into a goal. Quite challenging!
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -179,7 +179,7 @@ Readme file included.
 
 Spectator enhancement mod.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -190,7 +190,7 @@ Gameplay enhancement mod.
 
 This mod makes it possible to disable vehicles. In the included .ini file, you can choose which maps should have their vehicles disabled.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -203,7 +203,7 @@ Gameplay enhancement mod.
 
 This mod decreases the possibility of encountering non-registered hits.
 
-Installation instructions: \>Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+Installation instructions: \>Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -214,7 +214,7 @@ Gameplay enhancement mod.
 
 This mod allows you to set the minimum and maximum allowed latency (ping) on your server. Any player that has a ping too high or too low will be warned and eventually kicked. You can set minimum and maximum ping values and choose at which time intervals the pings are checked.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -227,7 +227,7 @@ Gameplay enhancement mod.
 
 This mod removes color tags and admin specified filter strings from the names of all connected players.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -240,7 +240,7 @@ Gameplay enhancement mod.
 
 This mod does many things. A few examples: you can set chaingun damage, pods damage, sniper damage, it converts the burner into a plasma gun, you can set disc speed, it fixes flag throwing, allowes you to disable baserape and or vehicles and much more!
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -251,7 +251,7 @@ Gameplay enhancement mod.
 
 Upgrade of the previous promod. Only contains the .u file, so it can not be used for server administration. It can only be used for demo playback.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -262,7 +262,7 @@ Gameplay enhancement mod.
 
 Upgrade of the previous promod. Only contains the .u file, so it can not be used for server administration. It can only be used for demo playback.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -273,7 +273,7 @@ Gameplay enhancement mod.
 
 Upgrade of the previous promod.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -295,7 +295,7 @@ Server management mod.
 
 This mod allows you to set an enty logo, which will be displayed, when players join your server. You can configure the position, the dimensions, set how long it will be displayed and how long it takes to fade out.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -310,7 +310,7 @@ This mod sends information to the [Tribesrevengeance.com](/) domain, so we can d
 
 s 
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -321,7 +321,7 @@ Spectator enhancement mod.
 
 This mod allowes you to speed up and slow down with your mouse wheel, set up cam points and switch between them, lock on to the players view, see player names and more.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -347,7 +347,7 @@ Gameplay enhancement mod.
 
 This mod allows you to enable, disable or change vehicles. Furthermore you can disable deployables and baseturrets and do things such as enabling degrapple and nerfing the shield pack.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -360,7 +360,7 @@ Gameplay enhancement mod.
 
 This mod allows you to enable degrapple, to disable vehicles, to reduce grappler ammunition and to nerf the shieldpack.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -371,7 +371,7 @@ Gameplay enhancement mod.
 
 This mod has the same features as the b1 version, but comes with code improvements.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -382,7 +382,7 @@ Gameplay enhancement mod.
 
 This mod is an upgrade of the previous two versions. This mod has antics\_v3 build in and improved, and also has the same options as the previous versions.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -395,7 +395,7 @@ Gameplay enhancement mod.
 
 This mod allows you to set degrapple health points, increases disc speed and comes with many bonus ingame statistics, which can be partially tweaked.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -408,7 +408,7 @@ Gameplay enhancement mod.
 
 This mod allows you to tweak many weapons, projectiles and vehicles. Furthermore, you can disable deployables, disable base rape, automatically remove teamkillers based on their score and much more!
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
   
   
@@ -419,7 +419,7 @@ Gameplay enhancement mod.
 
 This mod is analog to the x2 v3rc6 version, only has a few options less.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
@@ -432,6 +432,6 @@ Gameplay enhancement mod.
 
 This mod tweaks many weapons and projectiles. It also allows you to tweak base turrets, it changes flag throwing and does a few more things.
 
-**Installation instructions:** Extract the files to your **..\VUGames\Tribes Vengeance\Program\ Bin** folder.
+**Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
