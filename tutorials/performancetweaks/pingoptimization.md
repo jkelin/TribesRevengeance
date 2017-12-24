@@ -66,14 +66,15 @@ Your maximum connection speed is defined by a number in Bytes per seconds. The c
 The presets you can find ingame (see above) all have a different values suited for specific internet connections.
 
   
+```
+Modem: 2.600 B/s => Suited for very slow internet connections
 
-    Modem: 2.600 B/s	Suited for very slow internet connections
+ISDN: 5.000 B/s => Suited for slow internet connections
 
-    ISDN: 5.000 B/s	Suited for slow internet connections
+Cable/ADSL: 10.000 B/s => Suited for normal internet connections
 
-    Cable/ADSL:	10.000 B/s	Suited for normal internet connections
-
-    LAN/T1: 20.000 B/s	Suited for fast internet connections
+LAN/T1: 20.000 B/s => Suited for fast internet connections
+```
 
   
 
@@ -93,17 +94,17 @@ Nowadays connection speeds have improved, and a high-speed connection back in 20
 
 * * *
 
-Another way to decrease your ping, is to use the "**netspeed [value]**" command in the console.
+Another way to decrease your ping, is to use the `netspeed [value]` command in the console.
 
 You can do this by following these steps:
 
 1. **Start** Tribes Vengeance (preferably as administrator)
 2. **Join** a Tribes Vengeance gameserver 
-3. **Open** your console by using the **TAB** - or **~** key.
+3. **Open** your console by using the `TAB` - or `~` key.
 
-4. Type **netspeed [value]** in your console.
+4. Type `netspeed [value]` in your console.
 
-For example: **netspeed 25000**
+For example: `netspeed 25000`
 
 NOTE: This value will be saved in your configuration files. You will not have to retype the console command every time you start the game.
 
@@ -111,7 +112,7 @@ NOTe: the maximum connection speed it capped by the server. You will therefore o
 
   
 
-By typing "netspeed 30000", you will set your Max connection speed to 30kB/s. Faster internet connections will be able to utilise that new bandwidth and improve your ping as a result. It is, however, important that u do **NOT** set the netspeed too high. A too high value might cause lags and warps or even a ping increase instead of a decrease!
+By typing `netspeed 30000`, you will set your Max connection speed to 30kB/s. Faster internet connections will be able to utilise that new bandwidth and improve your ping as a result. It is, however, important that u do **NOT** set the netspeed too high. A too high value might cause lags and warps or even a ping increase instead of a decrease!
 
   
 

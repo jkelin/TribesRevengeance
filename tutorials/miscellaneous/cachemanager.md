@@ -15,19 +15,19 @@ First of all, lets go through what cache files are. Cache files are temporary fi
 
   
 
-Files coming to mind are server logo's, server mutators, etc. So whenever you join such a server, the game will download these files and store them into your **.../VUGames/Tribes Vengeance/Program/Cache** folder.
+Files coming to mind are server logo's, server mutators, etc. So whenever you join such a server, the game will download these files and store them into your `.../VUGames/Tribes Vengeance/Program/Cache` folder.
 
   
 
-Whenever you see the ingame download screen, you know you have cache files in there. When checking out the cache folder, you will see a lot of strange names and a **cache.ini** file.
+Whenever you see the ingame download screen, you know you have cache files in there. When checking out the cache folder, you will see a lot of strange names and a `cache.ini` file.
 
   
 
-The **cache.ini** file basically tells the game what what file is, which makes the game can use it and you can join the given server or servers.
+The `cache.ini` file basically tells the game what what file is, which makes the game can use it and you can join the given server or servers.
 
   
 
-In order to keep the cache files, you must rename them and give them the correct file extension. By checking the **cache.ini** file, you can know what names need to be given and which file extensions need to be used.
+In order to keep the cache files, you must rename them and give them the correct file extension. By checking the `cache.ini` file, you can know what names need to be given and which file extensions need to be used.
 
   
 

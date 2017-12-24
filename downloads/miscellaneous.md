@@ -6,7 +6,7 @@ description: Miscellaneous Download page. Download all miscellaneous T:V files -
 permalink: /downloads/miscellaneous/
 ---
 
-On this page you will find all the files that can not be listed in any of the other cathegories, for Tribes Vengeance. Click on the name of the given file to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
+On this page you will find all the files that can not be listed in any of the other cathegories, for Tribes Vengeance. Click on the name of the given file to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us](/contact).
 
 
 At this stage, this page will only contain the most important and the most used files. Later, this page will become way more extended then it is now. Checking back regularly is advised.

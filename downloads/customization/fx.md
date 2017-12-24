@@ -6,7 +6,7 @@ description: FX Download page. Download many T:V special effects such as trails,
 permalink: /downloads/customization/fx/
 ---
 
-On this page you will find all available special affects for Tribes Vengeance. Click on the name of the given effect to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
+On this page you will find all available special affects for Tribes Vengeance. Click on the name of the given effect to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us](/contact).
 
 Further description and instructions are coming soon!
 

@@ -12,10 +12,10 @@ Welcome to TribesRevengeance! On this website, you will find all possible Tribes
 To get started playing **Tribes Vengeance**, please follow **[this guide]({{ "/downloads/revengeance/" | absolute_url }})**.
 
 
-If you want to start downloading, please visit our [DOWNLOADS]({{ "/downloads" | absolute_url }}) page.
+If you want to start downloading, please visit our [Downloads]({{ "/downloads" | absolute_url }}) page.
 
-If you need help with something, please visit our [TUTORIAL]({{ "/tutorials" | absolute_url }}) page.
+If you need help with something, please visit our [Tutorials]({{ "/tutorials" | absolute_url }}) page.
 
-Should there be a file missing, or should there be a topic you need help with that isn't listed on the  [TUTORIAL]({{ "/tutorials" | absolute_url }}) page, please  [CONTACT US]({{ "/contact" | absolute_url }}).
+Should there be a file missing, or should there be a topic you need help with that isn't listed on the  [Tutorials]({{ "/tutorials" | absolute_url }}) page, please  [Contact Us]({{ "/contact" | absolute_url }}).
 
 New to Tribes Vengeance? Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!

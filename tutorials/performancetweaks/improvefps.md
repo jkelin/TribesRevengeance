@@ -35,10 +35,10 @@ You can turn this option off to reduce CPU usage and FPS drain.
 
 You can do this by following these steps:
 
-1. **Navigate** to your **.../VUGames/Tribes Vengeance/Program/Bin** folder
-2. **Open** your **TV\_CD\_DVD.ini** file, with a text editing program, like notepad.
-3. **Search** the following line, by using CTRL + F: **D3DDrv.D3DRenderDevice]**
-4. **Change** ReduceMouseLagg=True to **ReduceMouseLagg=False**
+1. **Navigate** to your `.../VUGames/Tribes Vengeance/Program/Bin` folder
+2. **Open** your `TV_CD_DVD.ini` file, with a text editing program, like notepad.
+3. **Search** the following line, by using CTRL + F: `D3DDrv.D3DRenderDevice]`
+4. **Change** ReduceMouseLagg=True to `ReduceMouseLagg=False`
 5. **Save** the file and **reboot** Tribes Vengeance
  ![](reducemouselagghelper.jpg)  
 
@@ -50,15 +50,15 @@ You can increase your FPS by enabling triple buffering and disabling Vsync.
 
 You can do that by following these steps:
 
-1. **Navigate** to your **.../VUGames/Tribes Vengeance/Program/Bin** folder
-2. **Open** your **TV\_CD\_DVD.ini** file, with a text editing program, like notepad.
-3. **Search** the following line, by using CTRL + F: **D3DDrv.D3DRenderDevice]**
-4. **Change** UseTrippleBuffering=False to **UseTrippleBuffering=True**
-4. **Change** UseVsync=True to **UseVsync=False**
-5. **Change** DesiredRefreshRate=[NUMBER] to **DesiredRefreshRate=[MAX REFRESH RATE YOUR MONITOR SUPPORTS]**
+1. **Navigate** to your `.../VUGames/Tribes Vengeance/Program/Bin` folder
+2. **Open** your `TV_CD_DVD.ini` file, with a text editing program, like notepad.
+3. **Search** the following line, by using CTRL + F: `D3DDrv.D3DRenderDevice]`
+4. **Change** UseTrippleBuffering=False to `UseTrippleBuffering=True`
+4. **Change** UseVsync=True to `UseVsync=False`
+5. **Change** DesiredRefreshRate=[NUMBER] to `DesiredRefreshRate=[MAX REFRESH RATE YOUR MONITOR SUPPORTS]`
 ![](vsyncandrefreshrate.jpg)
 
-NOTE: Setting **UseVsync=False** can and/or will cause screen tearing. This however does improve your FPS, which is why it was added.
+NOTE: Setting `UseVsync=False` can and/or will cause screen tearing. This however does improve your FPS, which is why it was added.
 
   
 

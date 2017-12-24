@@ -6,7 +6,7 @@ description: Quickchat Download page. Download many T:V quickchats, such as MeCh
 permalink: /downloads/customization/quickchats/
 ---
 
-On this page you will find all available quickchats for Tribes Vengeance. Click on the name of the given quickchat to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
+On this page you will find all available quickchats for Tribes Vengeance. Click on the name of the given quickchat to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us](/contact).
 
   
   
