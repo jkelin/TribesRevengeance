@@ -6,14 +6,8 @@ description: Server Hosting page. Here you find a summary of all tutorials, whic
 permalink: /tutorials/serverhosting/
 ---
 
-# Server Hosting 
-
-* * *
-
 This section of the tutorials is dedicated to help you get your server off the ground. It will cover how to install mods, how to optimize your server's performance, etc.
 
-  
-
-## [Server Setup Guide](/tutorials/serverhosting/serversetup.html)
+## [Server Setup Guide](/tutorials/serverhosting/serversetup)
 
 This guide will walk you through the steps on how to get your server off the ground.

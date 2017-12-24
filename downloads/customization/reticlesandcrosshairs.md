@@ -6,14 +6,8 @@ description: Reticle and crosshair Download page. Download many T:V reticles and
 permalink: /downloads/customization/reticlesandcrusshairs/
 ---
 
-# Reticles and crosshairs 
+On this page you will find all available reticles and crosshairs for Tribes Vengeance. Click on the name of the given reticle/crosshair to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
 
-* * *
-
-On this page you will find all available reticles and crosshairs for Tribes Vengeance. Click on the name of the given reticle/crosshair to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact.html).
-
-  
-  
 
 ## [Badrastas Reticles](reticlesandcrosshairs/BadrastasRets.zip)
 

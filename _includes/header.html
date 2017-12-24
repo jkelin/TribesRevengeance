@@ -2,7 +2,7 @@
 
     <div class="wrapper">
         {% assign default_paths = site.pages | map: "path" %} {% assign page_paths = site.header_pages | default: default_paths %}
-        <a class="site-title" href="/">{{ site.title | escape }}</a>
+        <a class="site-title" href="{{site.url}}">{{ site.title | escape }}</a>
 
         {% if page_paths %}
         <nav class="site-nav">
@@ -21,9 +21,10 @@
             </label>
 
             <div class="trigger">
-                {% for path in page_paths %} {% assign my_page = site.pages | where: "path", path | first %} {% if my_page.title %}
-                <a class="page-link" href="{{ my_page.url }}">{{ my_page.title | escape }}</a>
-                {% endif %} {% endfor %}
+                <a class="page-link" href="/tutorials">Tutorials</a>
+                <a class="page-link" href="/downloads">Downloads</a>
+                <a class="page-link" href="{{site.downloads_url}}">Downloads server</a>
+                <a class="page-link" href="{{site.stats_url}}">Stats</a>
             </div>
         </nav>
         {% endif %}

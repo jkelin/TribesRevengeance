@@ -7,10 +7,6 @@ date: 02/03/2014
 permalink: /tutorials/performancetweaks/improvesmoothness/
 ---
 
-# Improve smoothness
-
-* * *
-
 On this page you will find out how you can let your game run smoother.
 
 - 1. **Browse** to your **../VUGames/Tribes Vengeance/Program/Bin** folder and **find** your **TV\_CD\_DVD.ini** file.

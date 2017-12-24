@@ -4,12 +4,8 @@ title: Enabling Console Tutorial
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, enable, console, shortcut, target, windowed
 description: Enabling Console Turorial page. Here you learn how enable the console.
 date: 02/03/2014
-permalink: /tutorials/miscelleaneous/enablingconsole/
+permalink: /tutorials/miscellaneous/enablingconsole/
 ---
-
-# Enable Console
-
-* * *
 
 On this page you will find out how to enable the in game console. A must do, if you ask us!
 

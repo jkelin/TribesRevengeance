@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Windowed Mode Tutorial
+title: Windowed Mode
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, enable, windowed, mode, shortcut, target, console
 description: Enabling Console Turorial page. Here you learn how enable windowed mode.
 date: 02/03/2014
-permalink: /tutorials/miscelleaneous/enablingwindowedmode/
+permalink: /tutorials/miscellaneous/enablingwindowedmode/
 ---
-
-# Enable Windowed mode
-
-* * *
 
 On this page you will find out how to enable the windowed mode.
 

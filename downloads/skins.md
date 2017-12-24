@@ -6,11 +6,7 @@ description: Skin Download page. Download all T:V skins - weapon skins, player m
 permalink: /downloads/skins/
 ---
 
-# Skins 
-
-* * *
-
-On this page you will find all available skins for Tribes Vengeance. Click on the name of the given skin (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact.html).
+On this page you will find all available skins for Tribes Vengeance. Click on the name of the given skin (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
 
   
   

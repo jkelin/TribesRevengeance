@@ -6,10 +6,6 @@ description: Customized Download page. Download all customized T:V files, like h
 permalink: /downloads/
 ---
 
-# Downloads
-
-* * *
-
 On this page you will find an overview of the different types of files that can be downloaded. Please click the links below to go to their respective download pages.
 
 

@@ -7,10 +7,6 @@ date: 02/03/2014
 permalink: /tutorials/performancetweaks/pingoptimization/
 ---
 
-# Ping Optimization
-
-* * *
-
 On this page you will find all sorts of tweaks which you can apply in order to decrease your ping or stabilize your connection.
 
   

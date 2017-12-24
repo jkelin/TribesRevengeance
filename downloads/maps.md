@@ -6,15 +6,11 @@ description: Map Download page. Download all Tribes Vengeance Maps - beml, x2, t
 permalink: /downloads/maps
 ---
 
-# Maps 
-
-* * *
-
-On this page you will find all available maps for Tribes Vengeance. Click on the name of the given map (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of assistance, please [CONTACT US](/contact.html).
+On this page you will find all available maps for Tribes Vengeance. Click on the name of the given map (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of assistance, please [CONTACT US](/contact).
 
   
   
-<spoiler name="'Anzec Day Map Pack'" url="'maps/AD_Map_Pack.exe'
+<spoiler name="'Anzec Day Map Pack'" url="'maps/AD_Map_Pack.exe'">
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p class="importantIn order to fix a file mismatch with MP-Surreal, you must first install the Boxing Day Map Pack (found beneath the BEML Map Packs), before installing this map pack! This map pack will overwrite this one and thereby fixing the issue.</p>
                     	<p>This map pack Contains: </p>
@@ -41,7 +37,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     
 		    </spoiler>  
   
-<spoiler name="'BEML Season 1 Map Pack'" url="'maps/BEMLTVS1Pack.zip'
+<spoiler name="'BEML Season 1 Map Pack'" url="'maps/BEMLTVS1Pack.zip'">
                     	<p>Extract the zip file to your <strong>...\VUGames\Tribes Vengeance\Content</strong> folder. </p>
                     	<p>This map pack contains: </p>
                     	<ul>
@@ -55,7 +51,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 2 Map Pack 1'" url="'maps/BEML_MP1_Season2.zip'
+<spoiler name="'BEML Season 2 Map Pack 1'" url="'maps/BEML_MP1_Season2.zip'">
                     
                     	<p>First of the two Season 2 Map Packs. Extract the zip file to your <strong>...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p class="importantNOTE: Install this Map Pack, before you install the second Map Pack of Season 2! This way you will prevent errors from occuring.</p>
@@ -77,7 +73,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 2 Map Pack 2'" url="'maps/BEML_MP2_Season2.zip'
+<spoiler name="'BEML Season 2 Map Pack 2'" url="'maps/BEML_MP2_Season2.zip'">
                     
                     	<p>Second of the two Season 2 Map Packs. Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p class="importantNOTE: You must first install the first of the two Map Packs of Season 2, before you install this Map Pack! This way you will prevent errors from occuring.</p>
@@ -100,7 +96,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 3 Map Pack'" url="'maps/BEML_Season3_MapPack.rar'
+<spoiler name="'BEML Season 3 Map Pack'" url="'maps/BEML_Season3_MapPack.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder.</p>
                     	<p>This map pack contains: </p>
@@ -117,7 +113,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 4 Map Pack'" url="'maps/BEML_Season4_MapPack.exe'
+<spoiler name="'BEML Season 4 Map Pack'" url="'maps/BEML_Season4_MapPack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p>This map pack Contains: </p>
@@ -157,7 +153,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul> 
                     </spoiler>  
   
-<spoiler name="'BEML Season 5 Map Pack'" url="'maps/BEML_Season5_MapPack.exe'
+<spoiler name="'BEML Season 5 Map Pack'" url="'maps/BEML_Season5_MapPack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p>This map pack Contains: </p>
@@ -172,7 +168,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 6 Map Pack'" url="'maps/BEML_Season6_MapPack.exe'
+<spoiler name="'BEML Season 6 Map Pack'" url="'maps/BEML_Season6_MapPack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p class="importantTwo of these maps contain errors. To resolve these, you must first download and install this map pack and then download and install the fix (found below). It is important you install this first, before the fix!</p>
@@ -197,7 +193,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 6 Map Pack Fix'" url="'maps/BEML_Season6_MapPack_fix.exe'
+<spoiler name="'BEML Season 6 Map Pack Fix'" url="'maps/BEML_Season6_MapPack_fix.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p class="importantThis Map Pack fixes the errors two of the above maps, of the BEML Season 6 Map Pack, contains. It is important you install this AFTER you installed the BEML 6 Map Pack!</p>
@@ -208,7 +204,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 7 Map Pack'" url="'maps/BEML_Season7_MapPack.exe'
+<spoiler name="'BEML Season 7 Map Pack'" url="'maps/BEML_Season7_MapPack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p>This map pack Contains: </p>
@@ -227,7 +223,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 8 Map Pack'" url="'maps/BEML_Season8_MapPack.rar'
+<spoiler name="'BEML Season 8 Map Pack'" url="'maps/BEML_Season8_MapPack.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p>This map pack Contains: </p>
@@ -243,13 +239,13 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'BEML Season 4 to 8 Map Pack'" url="'maps/BEML4_8.exe'
+<spoiler name="'BEML Season 4 to 8 Map Pack'" url="'maps/BEML4_8.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p>This map pack contains all the maps (including fixes) that can be found in the BEML Season Map Packs 4 to 8. Downloading and installing this is much easier then downloading and installing all of them seperately.</p>
                     </spoiler>  
   
-<spoiler name="'BotMaps'" url="'maps/BotMaps.rar'
+<spoiler name="'BotMaps'" url="'maps/BotMaps.rar'">
                     
                     	<p>Extract the file to your <strong> ...\VUGames\Tribes Vengeance\ </strong> folder. </p>
                     	<p>This map pack contains: </p>
@@ -261,7 +257,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'Boxing Day Map Pack'" url="'maps/BD_Map_Pack.exe'
+<spoiler name="'Boxing Day Map Pack'" url="'maps/BD_Map_Pack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p class="importantIn order to fix a file mismatch with MP-Surreal, you must first install this map pack, before installing the Anzac Day Map Pack! The other map pack will overwrite this one and thereby fixing the issue.</p>
@@ -282,7 +278,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'Greenscreen Maps'" url="'maps/GreenscreenMaps.rar'
+<spoiler name="'Greenscreen Maps'" url="'maps/GreenscreenMaps.rar'">
                     
                     	<p>Contains two maps, used when creating an advanced T:V video.</p>
                     	<p>Extract to your <strong> ...\VUGames\Tribes Vengeance\Content\Maps </strong> folder.
@@ -294,7 +290,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'Miscellaneous Map Pack'" url="'maps/MiscMapPack.exe'
+<spoiler name="'Miscellaneous Map Pack'" url="'maps/MiscMapPack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p>This map pack Contains all maps that were not released in a Map Pack. </p>
@@ -368,12 +364,12 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'REV map pack'" url="'http://tribesrevengeance.com/dicerolla/REV-VUG.zip'
+<spoiler name="'REV map pack'" url="'http://tribesrevengeance.com/dicerolla/REV-VUG.zip'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder.</p>
                     </spoiler>  
   
-<spoiler name="'SmOkking Joe Map Pack'" url="'maps/sj_map_pack.zip'
+<spoiler name="'SmOkking Joe Map Pack'" url="'maps/sj_map_pack.zip'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p>This map pack Contains: </p>
@@ -385,7 +381,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'The Inner Sanctum Map Pack 1'" url="'maps/TIS_MP.rar'
+<spoiler name="'The Inner Sanctum Map Pack 1'" url="'maps/TIS_MP.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder.</p>
                     	<p class="importantNOTE: For the maps to work correctly, it is required you install the x2 Map Pack first. Download link can be found below.</p>
@@ -401,7 +397,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'The Inner Sanctum Map Pack 2'" url="'maps/TIS2_MP.rar'
+<spoiler name="'The Inner Sanctum Map Pack 2'" url="'maps/TIS2_MP.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder.</p>
                     	<p class="importantNOTE: For the maps to work correctly, it is required you install the x2 Map Pack first. Download link can be found below.</p>
@@ -425,7 +421,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'The Inner Sanctum Map Pack 2 Fix'" url="'maps/TIS2_Mapfixes.rar'
+<spoiler name="'The Inner Sanctum Map Pack 2 Fix'" url="'maps/TIS2_Mapfixes.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder.</p>
                     	<p class="importantNOTE: For the maps to work correctly, it is required you install the x2 Map Pack first. Download link can be found below.</p>
@@ -437,7 +433,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'The Inner Sanctum Map Pack 3 Part 1'" url="'maps/TIS3MP_Part1Final.exe'
+<spoiler name="'The Inner Sanctum Map Pack 3 Part 1'" url="'maps/TIS3MP_Part1Final.exe'">
                     
 	            	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
 	                <p>This map pack Contains: </p>
@@ -451,7 +447,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'TVRL Map Pack 1'" url="'maps/TVRL_MP1.rar'
+<spoiler name="'TVRL Map Pack 1'" url="'maps/TVRL_MP1.rar'">
                     
                     	<p>First of two parts of the first TVRL Map Pack. Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder.</p>
                     	<p>This map pack contains: </p>
@@ -465,7 +461,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'TVRL Map Pack 1 Fix'" url="'maps/TVRL_MP1_fix.rar'
+<spoiler name="'TVRL Map Pack 1 Fix'" url="'maps/TVRL_MP1_fix.rar'">
                    
                     	<p>Second of the two parts of the first TVRL Map Pack. Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p>This map pack contains: </p>
@@ -478,7 +474,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'TVRL Map Pack 2'" url="'maps/TVRL2_MP.rar'
+<spoiler name="'TVRL Map Pack 2'" url="'maps/TVRL2_MP.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p>This map pack contains: </p>
@@ -498,7 +494,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'TVRL Map Pack 3'" url="'maps/TVRL3_MP.rar'
+<spoiler name="'TVRL Map Pack 3'" url="'maps/TVRL3_MP.rar'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p>This map pack contains: </p>
@@ -514,7 +510,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'ViFoxe BEML RabbitPack'" url="'maps/ViFoxe_BEML_RabbitPack.zip'
+<spoiler name="'ViFoxe BEML RabbitPack'" url="'maps/ViFoxe_BEML_RabbitPack.zip'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance\Content</strong> folder. Readme file included.</p>
                     	<p>This map pack contains: </p>
@@ -526,7 +522,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'VM Map Pack'" url="'maps/VMMapPack.zip'
+<spoiler name="'VM Map Pack'" url="'maps/VMMapPack.zip'">
                     
                     	<p>Extract the zip file to your <strong> ...\VUGames\Tribes Vengeance</strong> folder. Readme file included.</p>
                     	<p>This map pack contains: </p>
@@ -563,7 +559,7 @@ On this page you will find all available maps for Tribes Vengeance. Click on the
                     	</ul>
                     </spoiler>  
   
-<spoiler name="'X2 Bonus Map Pack'" url="'maps/TV_x2_bonus_pack.exe'
+<spoiler name="'X2 Bonus Map Pack'" url="'maps/TV_x2_bonus_pack.exe'">
                     
                     	<p>Run the executable file. Link it to your <strong> ...\VUGames\Tribes Vengeance\ </strong>folder and press OK to start installing the maps.</p>
                     	<p>This file contains more then just maps. There are also a few mods and skins included as well as some other things. Check the readme file for further info.

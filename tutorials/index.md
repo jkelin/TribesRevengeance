@@ -6,49 +6,45 @@ description: Tutorials page
 permalink: /tutorials/
 ---
 
-# Tutorials
-
-* * *
-
 To seperate the large volume of tutorials, we have decided to make 6 subsections:
 
 
 
-## [Getting Started](tutorials/gettingstarted.html)
+## [Getting Started](/tutorials/gettingstarted)
 
 Here you will find all guides that will help you get the game up and running.
 
 
 
-## [Singleplayer](tutorials/singleplayer.html)
+## [Singleplayer](/tutorials/singleplayer)
 
 Here you will find all walkthroughs concerning the singleplayer.
 
 
 
-## [Gameplay](tutorials/gameplay.html)
+## [Gameplay](/tutorials/gameplay)
 
 Here you will find all tutorials and tips and tricks on how to improve your gameplay.
 
 
 
-## [Performance Tweaks](tutorials/performancetweaks.html)
+## [Performance Tweaks](/tutorials/performancetweaks)
 
 Here you will find all tutorials on how to improve your fps, ping, etc.
 
 
 
-## [Server Hosting](tutorials/serverhosting.html)
+## [Server Hosting](/tutorials/serverhosting)
 
 Here you will find out how to host your own server.
 
 
 
-## [Miscellaneous](tutorials/miscellaneous.html)
+## [Miscellaneous](/tutorials/miscellaneous)
 
 Here you will find all guides that do not fit in any other the above sections.
 
-
+* * *
 
 Should you notice there are topics that aren't planned to be covered, then feel free to contact us by using the contact page. These topics are on the menu as of now (not ordered!):
 

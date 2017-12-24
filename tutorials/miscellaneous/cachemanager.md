@@ -4,12 +4,8 @@ title: Cache Manager Tutorial
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, cache, manager, installation, instruction, file, move, rename, manual, file, permanent
 description: Cache Manager Turorial page. Here you learn how to use the Cache Manager.
 date: 02/03/2014
-permalink: /tutorials/miscelleaneous/cachemanager/
+permalink: /tutorials/miscellaneous/cachemanager/
 ---
-
-# Cache Manager
-
-* * *
 
 On this page you will find out how to use the Cache Manager, an awesome little tool which handles your cache files!.
 

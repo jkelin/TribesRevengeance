@@ -7,10 +7,6 @@ date: 02/03/2014
 permalink: /tutorials/performancetweaks/improvefps/
 ---
 
-# FPS Optimization
-
-* * *
-
 On this page you will find out how you can improve your frames per second, or rather FPS. The frames per second number represent the amount of frames you see per second, hence the name. The higher the FPS value, the smoother the game may appear to be.
 
   

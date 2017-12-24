@@ -6,40 +6,36 @@ description: Performance Tweaks page. Here you find a summary of all Tweaks, whi
 permalink: /tutorials/performancetweaks/
 ---
 
-# Performance Tweaks 
-
-* * *
-
 This section of the tutorials is dedicated to help you get more out of the game. It will cover various subjects to increase your FPS or to decrease your ping. Also other subjects are bound to be covered at some point.
 
 Stay tuned for more!
 
   
 
-## [Decrease your ping and lagg](/tutorials/performancetweaks/pingoptimization.html)
+## [Decrease your ping and lagg](/tutorials/performancetweaks/pingoptimization)
 
 This guide will cover all possible tweaks to decrease your ingame latency and improve connection stability
 
   
 
-## [Uncap FPS](/tutorials/performancetweaks/uncapfps.html)
+## [Uncap FPS](/tutorials/performancetweaks/uncapfps)
 
 This guide will explain how to uncap your Frames Per Second.
 
   
 
-## [Improve FPS](/tutorials/performancetweaks/improvefps.html)
+## [Improve FPS](/tutorials/performancetweaks/improvefps)
 
 This guide will cover all possible tweaks to increase your FPS.
 
   
 
-## [Increase Smoothness](/tutorials/performancetweaks/increasesmoothness.html)
+## [Increase Smoothness](/tutorials/performancetweaks/increasesmoothness)
 
 This guide will explain how you can let the game run smoother
 
   
 
-## [Improve Loading Speed](/tutorials/performancetweaks/loadingspeed.html)
+## [Improve Loading Speed](/tutorials/performancetweaks/loadingspeed)
 
 This guide will explain how you can improve your game loading speed.

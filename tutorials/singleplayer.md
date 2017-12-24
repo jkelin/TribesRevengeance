@@ -6,10 +6,6 @@ description: Singleplayer tutorial page. Here you find a summary of all singlepl
 permalink: /tutorials/singleplayer/
 ---
 
-# Singleplayer 
-
-* * *
-
 This section of the tutorials is dedicated to help you through the singleplayer. Video walkthroughs will be made and every level will be covered. Also expect several tips and tricks.
 
 Stay tuned!

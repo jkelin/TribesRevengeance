@@ -6,11 +6,7 @@ description: Revengeance Download page. Download Tribes Vengeance for free! Choo
 permalink: /downloads/revengeance/
 ---
 
-# Revengeance 
-
-* * *
-
-On this page you will find the most recent Tribes Vengeance build, as well as a couple of other related things. If you are in need of (more) assistance, please [CONTACT US](/contact.html).
+On this page you will find the most recent Tribes Vengeance build, as well as a couple of other related things. If you are in need of (more) assistance, please [CONTACT US](/contact).
 
   
   

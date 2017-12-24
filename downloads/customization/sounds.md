@@ -6,11 +6,7 @@ description: Sound Download page. Download many T:V sounds, such as weapon sound
 permalink: /downloads/customization/sounds/
 ---
 
-# Sound effects 
-
-* * *
-
-On this page you will find all available sound effects for Tribes Vengeance. Click on the name of the given effect to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact.html).
+On this page you will find all available sound effects for Tribes Vengeance. Click on the name of the given effect to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [CONTACT US](/contact).
 
   
   
