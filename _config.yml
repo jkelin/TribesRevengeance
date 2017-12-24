@@ -22,6 +22,7 @@ url: "http://tribesrevengeance.net" # the base hostname & protocol for your site
 downloads_url: "https://downloads.tribesrevengeance.net" # the base hostname & protocol for your site, e.g. http://example.com
 stats_url: "http://stats.tribesrevengeance.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jkelin
+github_repo: tribesrevengeance
 
 # Build settings
 theme: minima

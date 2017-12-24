@@ -19,3 +19,5 @@ If you need help with something, please visit our [Tutorials]({{ "/tutorials" | 
 Should there be a file missing, or should there be a topic you need help with that isn't listed on the  [Tutorials]({{ "/tutorials" | absolute_url }}) page, please  [Contact Us]({{ "/contact" | absolute_url }}).
 
 New to Tribes Vengeance? Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
+
+<embed width="420" height="420" style="width: 100%" src="http://www.youtube.com/v/7J5OcztBZmM" type="application/x-shockwave-flash" />
