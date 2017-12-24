@@ -6,4 +6,4 @@ layout: default
 permalink: '/contact'
 ---
 
-Shoot me an email to <a "mailto:me@fireant.pw">me@fireant.pw</a>
+Shoot me an email to <a href="mailto:me@fireant.pw">me@fireant.pw</a>
