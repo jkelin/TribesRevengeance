@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 permalink: '/contact'
+title: Contact
+description: Where and how to reach us
 ---
 
-Shoot me an email to <a href="mailto:me@fireant.pw">me@fireant.pw</a>
+Shoot <a href="mailto:me@fireant.pw">me@fireant.pw</a> an email
