@@ -1,21 +1,12 @@
 function subscribeLoad(fun) {
-  document.addEventListener('DOMContentLoaded', fun);
   if(window.InstantClick) {
     window.InstantClick.on('change', fun);
+  } else {
+    document.addEventListener('DOMContentLoaded', fun);
   }
 }
 
-(function(){
-  document.addEventListener('DOMContentLoaded', function () {
-    if(window.InstantClick) {
-      window.InstantClick.init();
-    }
-  });
-})();
-
 subscribeLoad(function () {
-  // debugger;
-
   // Get all "navbar-burger" elements
   var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
@@ -38,4 +29,12 @@ subscribeLoad(function () {
     });
   }
 });
+
+(function(){
+  document.addEventListener('DOMContentLoaded', function () {
+    if(window.InstantClick) {
+      window.InstantClick.init();
+    }
+  });
+})();
 
