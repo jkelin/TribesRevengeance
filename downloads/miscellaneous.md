@@ -6,7 +6,7 @@ description: Miscellaneous Download page. Download all miscellaneous T:V files -
 permalink: /downloads/miscellaneous/
 ---
 
-On this page you will find all the files that can not be listed in any of the other cathegories, for Tribes Vengeance. Click on the name of the given file to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us]({{ "/contact" | relative_url }}).
+On this page you will find all the files that can not be listed in any of the other cathegories, for Tribes Vengeance. Click on the name of the given file to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us]({{ "/contact/" | relative_url }}).
 
 
 At this stage, this page will only contain the most important and the most used files. Later, this page will become way more extended then it is now. Checking back regularly is advised.
@@ -37,16 +37,16 @@ The full game version, as well as the provided Revengeance downloads on this web
 
 The Tribes Vengeance Cache Manager is a handy, little tool, that helps you turning your cache files into permanent files, in just a few clicks! Tribes Vengeance cache files are temporary files, downloaded when trying to join a server to play on. Whenever you do not own a file that is currently being used on the server you try to join, your game will download the file. This usually includes maps or mods.
 
-An extensive guide for using the Tribes Vengeance Cache Manager, can be found [here]({{ "/tutorials/miscellaneous/cachemanager" | relative_url }}).
+An extensive guide for using the Tribes Vengeance Cache Manager, can be found [here]({{ "/tutorials/miscellaneous/cachemanager/" | relative_url }}).
   
 
 ## [Tribes Vengeance CD keys]({{ site.downloads_url | append: "/other/20000tv_keys.txt" }})
 
 This file contains 20000 Tribes Vengeance CD keys. In order to get the game to run perfectly, you still need to enter a CD key. You must enter this key into the **Tribes Vengeance Key Changer**.
 
-A guide on how to get the game going, from start to finish, can be found [here]({{ "/tutorials/gettingstarted/gettingstartedguide" | relative_url }}).
+A guide on how to get the game going, from start to finish, can be found [here]({{ "/tutorials/gettingstarted/gettingstartedguide/" | relative_url }}).
 
-If you have used a key, please let us know on our [forum]({{ "/forum/index" | relative_url }}) or by [contacting]({{ "/contact" | relative_url }}) us through email or other means.
+If you have used a key, please let us know on our [forum]({{ "/forum/index/" | relative_url }}) or by [contacting]({{ "/contact/" | relative_url }}) us through email or other means.
 
   
   

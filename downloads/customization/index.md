@@ -11,41 +11,41 @@ Tribes Vengeance has a lot of customized content. Many of those contents, were p
   
   
 
-## [Special effects]({{ "/downloads/customization/fx" | relative_url }})
+## [Special effects]({{ "/downloads/customization/fx/" | relative_url }})
 
 All sorts of special effects, including projectile trails and more!
 
   
   
 
-## [Heads Up Display scripts]({{ "/downloads/customization/hudscripts" | relative_url }})
+## [Heads Up Display scripts]({{ "/downloads/customization/hudscripts/" | relative_url }})
 
 Add things to your HUD.
 
   
   
 
-## [Heads up Displays]({{ "/downloads/customization/hud" | relative_url }})
+## [Heads up Displays]({{ "/downloads/customization/hud/" | relative_url }})
 
 The HUDs of some people who have shared it.
 
   
   
 
-## [Quickchats]({{ "/downloads/customization/quickchats" | relative_url }})
+## [Quickchats]({{ "/downloads/customization/quickchats/" | relative_url }})
 
 Customized quickchats. Some of which only the text changes, some include new sounds.
 
   
   
 
-## [Reticles And Crosshairs]({{ "/downloads/customization/reticlesandcrosshairs" | relative_url }})
+## [Reticles And Crosshairs]({{ "/downloads/customization/reticlesandcrosshairs/" | relative_url }})
 
 Customize your reticle and/or crosshair.
 
   
   
 
-## [Sounds]({{ "/downloads/customization/sounds" | relative_url }})
+## [Sounds]({{ "/downloads/customization/sounds/" | relative_url }})
 
 Customize your ingame sound effects.
