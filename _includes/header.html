@@ -28,10 +28,16 @@
             <a class="navbar-item is-hidden-tablet" href='{{ "/links" | relative_url }}'>Links</a>
         </div>
         <div class="navbar-end">
+          <a class="navbar-item is-hidden-desktop-only" href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}">
+            <span class="icon">
+              <i class="fa fa-lg fa-github"></i>
+            </span>
+            <span class="is-hidden-desktop">Source code on Github</span>
+          </a>
           <div class="navbar-item">
-            <div class="field is-grouped">
-              <p class="control">
-                <a class="button is-secondary" href="{{ site.stats_url }}">
+            <div class="field has-addons is-fullwidth">
+              <p class="control is-expanded">
+                <a class="button is-link is-outlined is-fullwidth" href="{{ site.stats_url }}">
                   <span class="icon">
                     <i class="fa fa-user"></i>
                   </span>
@@ -39,8 +45,8 @@
                 </a>
               </p>
 
-              <p class="control">
-                <a class="button is-secondary" href="{{ site.downloads_url }}">
+              <p class="control is-expanded">
+                <a class="button is-link is-outlined is-fullwidth" href="{{ site.downloads_url }}">
                   <span class="icon">
                     <i class="fa fa-server"></i>
                   </span>
@@ -53,11 +59,11 @@
           <div class="navbar-item">
             <div class="field">
               <p class="control">
-                <a class="button is-primary is-fullwidth" href="{{ site.download_game_url }}">
+                <a class="button is-success is-fullwidth" href="{{ site.download_game_url }}">
                   <span class="icon">
-                    <i class="fa fa-download"></i>
+                    <i class="fa fa-lg fa-download"></i>
                   </span>
-                  <span>Download!</span>
+                  <span>Download TV!</span>
                 </a>
               </p>
             </div>
