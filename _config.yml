@@ -25,6 +25,9 @@ github_username: jkelin
 github_repo: tribesrevengeance
 google_analytics: UA-60631405-2
 
+minima:
+  date_format: "%d. %m. %Y"
+
 # Build settings
 theme: minima
 markdown: kramdown
