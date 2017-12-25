@@ -39,3 +39,15 @@
 // .navbar-dropdown {
 //   z-index: 1
 // }
+
+.footer {
+  border-top: 1px solid $grey-lighter;
+}
+
+.navbar {
+  border-bottom: 1px solid $grey-lighter;
+
+  .navbar-brand>.navbar-item:first-child:hover {
+    color: inherit;
+  }
+}
