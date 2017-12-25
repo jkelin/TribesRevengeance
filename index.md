@@ -20,4 +20,6 @@ Should there be a file missing, or should there be a topic you need help with th
 
 New to Tribes Vengeance? Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
 
-<embed width="420" height="420" style="width: 100%" src="http://www.youtube.com/v/7J5OcztBZmM" type="application/x-shockwave-flash" />
+<iframe id="ytplayer" type="text/html" style="width: 100%" width="640" height="360"
+  src="https://www.youtube.com/embed/7J5OcztBZmM?autoplay=0&origin=http://tribesrevengeance.net"
+  frameborder="0"></iframe>
