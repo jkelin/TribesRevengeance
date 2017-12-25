@@ -1,28 +1,10 @@
-<footer class="site-footer">
-
-    <div class="wrapper">
-  
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-  
-      <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            <li>
-              {{ site.title | escape }}
-            </li>
-            <li>
-              <a href="/feed.xml">RSS feed</a>
-            </li>
-          </ul>
-        </div>
-  
-        <div class="footer-col footer-col-2">
-          <ul class="social-media-list">
-            <li>{% include icon-github.html %}</li>
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          </ul>
-        </div>
-      </div>
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <strong class="title is-4">{{ site.title | escape }}</strong>
+      <br> {% include icon-github.html %}
+      <br> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <br> <a href="/feed.xml">RSS feed</a>
     </div>
-  </footer>
-  
+  </div>
+</footer>

@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: page
 ---
 
 ## Tribes Vengeance
@@ -21,7 +21,7 @@ Around 2013 GameSpy company that hosted TV's master server went defuct. Tribes V
 
 Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
 
-<iframe id="ytplayer" type="text/html" style="width: 100%" width="640" height="360"
+<iframe id="ytplayer" type="text/html" style="width: 100%" width="640" height="480"
   src="https://www.youtube.com/embed/7J5OcztBZmM?autoplay=0&origin=http://tribesrevengeance.net"
   frameborder="0"></iframe>
 

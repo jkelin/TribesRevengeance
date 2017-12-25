@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% if page.title %}
+<section class="hero is-link is-medium is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ page.title | escape }}
+      </h1>
+      <h2 class="subtitle is-5">
+        {{ page.description | escape }}
+      </h2>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<main class="container">
+  <article class="section">
+    <div class="article-content">
+      <div class="content" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </div>
+  </article>
+</main>

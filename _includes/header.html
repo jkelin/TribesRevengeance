@@ -1,11 +1,71 @@
 <header class="site-header" role="banner">
 
-    <div class="wrapper">
-        {% assign default_paths = site.pages | map: "path" %} {% assign page_paths = site.header_pages | default: default_paths %}
-        <a class="site-title" href='{{ "/" | relative_url }}'>{{ site.title | escape }}</a>
+  <div class="wrapper">
+    <!-- <a class="site-title" href='{{ "/" | relative_url }}'>{{ site.title | escape }}</a> -->
 
-        {% if page_paths %}
-        <nav class="site-nav">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="{{ " / " | relative_url }}">
+          <img src="{{ " /logo.png " | relative_url }}?v=1.0" alt="{{ site.title }}" width="26" height="28">
+          <strong class="is-hidden-mobile">&nbsp; TribesRevengeance</strong>
+        </a>
+
+        <a class="navbar-item" href='{{ "/tutorials" | relative_url }}'>Tutorials</a>
+        <a class="navbar-item" href='{{ "/downloads" | relative_url }}'>Downloads</a>
+        <a class="navbar-item is-hidden-mobile" href='{{ "/contact" | relative_url }}'>Contact</a>
+        <a class="navbar-item is-hidden-mobile" href='{{ "/links" | relative_url }}'>Links</a>
+
+        <button class="button navbar-burger" data-target="navMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-start">
+            <a class="navbar-item is-hidden-tablet" href='{{ "/contact" | relative_url }}'>Contact</a>
+            <a class="navbar-item is-hidden-tablet" href='{{ "/links" | relative_url }}'>Links</a>
+        </div>
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <div class="field is-grouped">
+              <p class="control">
+                <a class="button is-secondary" href="{{ site.stats_url }}">
+                  <span class="icon">
+                    <i class="fa fa-user"></i>
+                  </span>
+                  <span>Stats</span>
+                </a>
+              </p>
+
+              <p class="control">
+                <a class="button is-secondary" href="{{ site.downloads_url }}">
+                  <span class="icon">
+                    <i class="fa fa-server"></i>
+                  </span>
+                  <span>Downloads</span>
+                </a>
+              </p>
+            </div>
+          </div>
+
+          <div class="navbar-item">
+            <div class="field">
+              <p class="control">
+                <a class="button is-primary is-fullwidth" href="{{ site.download_game_url }}">
+                  <span class="icon">
+                    <i class="fa fa-download"></i>
+                  </span>
+                  <span>Download!</span>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- <nav class="navbar">
             <input type="checkbox" id="nav-trigger" class="nav-trigger" />
             <label for="nav-trigger">
                 <span class="menu-icon">
@@ -26,7 +86,6 @@
                 <a class="page-link" href="{{ site.downloads_url }}">Downloads server</a>
                 <a class="page-link" href="{{ site.stats_url }}">Stats</a>
             </div>
-        </nav>
-        {% endif %}
-    </div>
+        </nav> -->
+  </div>
 </header>

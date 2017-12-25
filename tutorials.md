@@ -6,10 +6,6 @@ description: Tutorials page
 permalink: /tutorials/
 ---
 
-To seperate the large volume of tutorials, we have decided to make 6 subsections:
-
-
-
 ## Getting Started
 Here you will find all guides that will help you get the game up and running.
 

@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<section class="hero is-primary is-medium is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ page.title | escape }}
+      </h1>
+      <p class="subtitle is-5">
+        {{ page.description }}
+        <p class="subtitle is-6">
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            {{ page.date | date: date_format }}
+          </time>
+          {% if page.author %}
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+          {% endif %}
+        </p>
+      </p>
+    </div>
+  </div>
+</section>
+
+<main class="container">
+  <article class="section" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="article-content">
+      <div class="content" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </div>
+
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+  </article>
+</main>

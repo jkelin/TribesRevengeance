@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "bulma/utilities/_all";
+@import "bulma/base/_all";
+@import "bulma/elements/_all";
+@import "bulma/components/_all";
+@import "bulma/grid/_all";
+@import "bulma/layout/_all";
+
+
+.article-content {
+  @extend .box;
+  max-width: 800px;
+  margin: auto;
+}
+
+@media (max-width: 1024px) {
+  .article-content, .article-content>* {
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+  }
+}
