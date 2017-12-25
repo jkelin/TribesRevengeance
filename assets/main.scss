@@ -25,3 +25,9 @@
     box-shadow: none;
   }
 }
+
+.navbar-burger, .navbar-burger:active, .navbar-burger:focus {
+  border-radius: 0;
+  border: 0;
+  outline: none;
+}
