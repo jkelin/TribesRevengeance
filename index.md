@@ -21,9 +21,7 @@ Around 2013 GameSpy company that hosted TV's master server went defuct. Tribes V
 
 Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
 
-<iframe id="ytplayer" type="text/html" style="width: 100%" width="640" height="480"
-  src="https://www.youtube.com/embed/7J5OcztBZmM?autoplay=0&origin=http://tribesrevengeance.net"
-  frameborder="0"></iframe>
+{% include yt-video.html id="7J5OcztBZmM" %}
 
 ## Open Source
 
