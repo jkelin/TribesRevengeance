@@ -12,30 +12,30 @@ Stay tuned for more!
 
   
 
-## [Decrease your ping and lagg](/tutorials/performancetweaks/pingoptimization)
+## [Decrease your ping and lagg]({{ "/tutorials/performancetweaks/pingoptimization" | relative_url  }})
 
 This guide will cover all possible tweaks to decrease your ingame latency and improve connection stability
 
   
 
-## [Uncap FPS](/tutorials/performancetweaks/uncapfps)
+## [Uncap FPS]({{ "/tutorials/performancetweaks/uncapfps" | relative_url  }})
 
 This guide will explain how to uncap your Frames Per Second.
 
   
 
-## [Improve FPS](/tutorials/performancetweaks/improvefps)
+## [Improve FPS]({{ "/tutorials/performancetweaks/improvefps" | relative_url  }})
 
 This guide will cover all possible tweaks to increase your FPS.
 
   
 
-## [Increase Smoothness](/tutorials/performancetweaks/increasesmoothness)
+## [Increase Smoothness]({{ "/tutorials/performancetweaks/increasesmoothness" | relative_url  }})
 
 This guide will explain how you can let the game run smoother
 
   
 
-## [Improve Loading Speed](/tutorials/performancetweaks/loadingspeed)
+## [Improve Loading Speed]({{ "/tutorials/performancetweaks/loadingspeed" | relative_url  }})
 
 This guide will explain how you can improve your game loading speed.

@@ -6,7 +6,7 @@ description: HUD Download page. Download many T:V HUDs, as the Record HUD, Defau
 permalink: /downloads/customization/hud/
 ---
 
-On this page you will find all available customized HUDs for Tribes Vengeance. Click on the name of the given HUD to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us](/contact).
+On this page you will find all available customized HUDs for Tribes Vengeance. Click on the name of the given HUD to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us]({{ "/contact" | relative_url }}).
 
 
 ## [BlissHUD]({{ site.downloads_url | append: "/customization2/Customization/HUDs/BlissHUD.zip" }})

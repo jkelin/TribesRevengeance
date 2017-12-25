@@ -6,7 +6,7 @@ description: Map Download page. Download all Tribes Vengeance Maps - beml, x2, t
 permalink: /downloads/maps
 ---
 
-On this page you will find all available maps for Tribes Vengeance. Click on the name of the given map (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of assistance, please [Contact Us](/contact).
+On this page you will find all available maps for Tribes Vengeance. Click on the name of the given map (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of assistance, please [Contact Us]({{ "/contact" | relative_url }}).
 
 
 ## [Anzec Day Map Pack](maps/AD_Map_Pack.exe)

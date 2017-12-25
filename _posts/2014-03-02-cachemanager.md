@@ -39,7 +39,7 @@ This, however, can be quite a difficult task as there may be a lot of files in t
 
 To correctly use the cache manager, please follow these steps:
 
-1. **[Download](/downloads/miscellaneous/TVCacheManager.zip)** the Cache Manager
+1. **[Download]({{ "/downloads/miscellaneous/TVCacheManager.zip" | relative_url }})** the Cache Manager
 2. If you have installed Tribes (Re)Vengeance to a non default location, you may receive an error saying Tribes Vengeance can not be detected
 
 To solve this, go to **Options**, then to **Profiles** and then click on **Add...**

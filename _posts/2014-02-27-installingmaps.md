@@ -29,7 +29,7 @@ It is imporatant to note that not all maps have both files! All maps **must** ha
 
 Now that we know which files are involved and where they need to be placed, we can walk through the steps needed to install them:
 
-1. First, you obviously need to **[download](/downloads/maps)** the maps.
+1. First, you obviously need to **[download]({{ "/downloads/maps" | relative_url }})** the maps.
 2. Most map packs will consist as a .exe file. This is an executable file, which you must run.
 
 3. After running the file, you must specify your `.../VUGames/Tribes Vengeance` folder and the installer will install the files to their correct positions.

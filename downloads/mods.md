@@ -8,7 +8,7 @@ permalink: /downloads/mods/
 
 On this page you will find all available mods for Tribes Vengeance. Click on the name of the given modification to start downloading. Be sure to read the given description and/or the accompanied readme file.
 
-On this page, only basic descriptions will be given. Instructions will explain how to install it as a client. If you want a certain modification to run on a server, more needs to be done, and that is explained in our tutorial that will come shortly! If you are in need of (more) assistance, please [Contact Us](/contact).
+On this page, only basic descriptions will be given. Instructions will explain how to install it as a client. If you want a certain modification to run on a server, more needs to be done, and that is explained in our tutorial that will come shortly! If you are in need of (more) assistance, please [Contact Us]({{ "/contact" | relative_url  }}).
 
   
 
@@ -306,7 +306,7 @@ Readme file included.
 
 Server management mod.
 
-This mod sends information to the [Tribesrevengeance.com](/) domain, so we can display ingame player performances on our [statistics]({{ site.stats_url }}) page.
+This mod sends information to the [Tribesrevengeance.com]({{ "/" | relative_url  }}) domain, so we can display ingame player performances on our [statistics]({{ site.stats_url }}) page.
 
 s 
 
