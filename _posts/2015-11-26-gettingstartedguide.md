@@ -6,7 +6,7 @@ description: Getting Started Guide page. Here you find out how to install T:V an
 date: 26/11/2015
 permalink: /tutorials/gettingstarted/gettingstartedguide/
 author: Highdive
-categories: getting started
+categories: getting_started
 ---
 
 Getting Tribes (Re)Vengeance up and running is now easier than ever before! Simply download the game and start playing!

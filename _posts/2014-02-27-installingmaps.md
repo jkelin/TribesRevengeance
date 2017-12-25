@@ -6,7 +6,7 @@ description: Map Installation Guide page. Here you find out how to install Tribe
 date: 27/02/2014
 permalink: /tutorials/gettingstarted/installingmaps/
 author: Guide originally written by Harabec and HighDive.
-categories: getting started
+categories: getting_started
 ---
 
 This guide will explain how to install maps in Tribes Vengeance.

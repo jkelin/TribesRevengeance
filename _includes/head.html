@@ -4,10 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ page.title || site.title | escape }}</title>
-  <meta property="og:description" content="{{ site.description }}">
   <meta property="og:site_name" content="{{ site.title }}">
+  
   {% if page.description %}
     <meta name="description" content="{{ page.description }}"/>
+    <meta property="og:description" content="{{ page.description }}">
   {% endif %}
 
   {% if page.keywords %}
