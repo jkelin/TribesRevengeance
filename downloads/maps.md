@@ -3,7 +3,7 @@ layout: page
 title: Map Downloads
 keywords: tribesrevengeance, tribes, vengeance, revengeance, map, download, x2, vm, beml, tvrl, tis, miscellaneous, misc, bot, botmap
 description: Map Download page. Download all Tribes Vengeance Maps - beml, x2, tvrl, tis, botmaps, AImaps and much more!
-permalink: /downloads/maps
+permalink: /downloads/maps/
 ---
 
 On this page you will find all available maps for Tribes Vengeance. Click on the name of the given map (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of assistance, please [Contact Us]({{ "/contact/" | relative_url }}).
