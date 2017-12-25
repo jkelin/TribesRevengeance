@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TRIBES:VENGEANCE NEWBLOOD GUIDE
+title: Tribes Vengeance Newblood Guide
 description: This guide contains information that will cut down on the time it'll take you to become a better player.
 date: 2014-01-31
 permalink: /tutorials/gettingstarted/newblood/

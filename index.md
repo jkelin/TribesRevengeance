@@ -5,21 +5,28 @@
 layout: default
 ---
 
+## Tribes Vengeance
+
+Tribes Vengeance is an FPS-Z originally released in 2004 but quickly abandoned by its original creators. Since then it has been maintained, patched and groomed by the community.
+
 Welcome to TribesRevengeance! On this website, you will find all possible Tribes Vengeance related files. Here, you can also find all possible tutorials, guides and walktroughs one could ever need.
 
-**BREAKING**: Tribes Vengeance now has a new master server. As of such, it is no longer required to have a valid CD-Key or to add server favorites. Plug and play as they say!
+### 2013 Exodus
 
-To get started playing **Tribes Vengeance**, please follow **[this guide]({{ "/downloads/revengeance/" | relative_url }})**.
+Around 2013 GameSpy company that hosted TV's master server went defuct. Tribes Vengeance now has a new master server. As of such, it is no longer required to have a valid CD-Key or to add server favorites. 
 
+### **To get started playing Tribes Vengeance, please follow [this guide]({{ "/downloads/revengeance/" | relative_url }})**
 
-If you want to start downloading, please visit our [Downloads]({{ "/downloads" | relative_url }}) page.
+### New to Tribes Vengeance?
 
-If you need help with something, please visit our [Tutorials]({{ "/tutorials" | relative_url }}) page.
-
-Should there be a file missing, or should there be a topic you need help with that isn't listed on the  [Tutorials]({{ "/tutorials" | relative_url }}) page, please  [Contact Us]({{ "/contact" | relative_url }}).
-
-New to Tribes Vengeance? Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
+Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
 
 <iframe id="ytplayer" type="text/html" style="width: 100%" width="640" height="360"
   src="https://www.youtube.com/embed/7J5OcztBZmM?autoplay=0&origin=http://tribesrevengeance.net"
   frameborder="0"></iframe>
+
+## Open Source
+
+This site is [fully open source and hosted on Github]({{ "https://github.com/" | append: site.github_username | append: "/" | append: site.github_repo }}). If you would like to contribute or have a resource that you would like to keep for future generations of Tribes players - feel free to open a pull request.
+
+As such, it should be virtually impossible for it's content to get lost (like it happend to many of it's predecessors) because when it's current maintainer goes dark - anyone can pickup the torch again!

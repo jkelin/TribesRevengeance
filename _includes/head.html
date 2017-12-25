@@ -3,7 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ page.title || site.title | escape }}</title>
+  {% if page.title %}
+    <title>{{ page.title | escape }} | {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+
   <meta property="og:site_name" content="{{ site.title }}">
   
   {% if page.description %}
