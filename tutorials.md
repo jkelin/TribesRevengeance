@@ -14,7 +14,7 @@ To seperate the large volume of tutorials, we have decided to make 6 subsections
 Here you will find all guides that will help you get the game up and running.
 
 {% for post in site.categories.getting_started %}
-  - [{{ post.title }}]({{ post.url | absolute_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}
 
@@ -23,7 +23,7 @@ Here you will find all guides that will help you get the game up and running.
 Here you will find all tutorials on how to improve your fps, ping, etc.
 
 {% for post in site.categories.performance %}
-  - [{{ post.title }}]({{ post.url | absolute_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}
 
@@ -32,7 +32,7 @@ Here you will find all tutorials on how to improve your fps, ping, etc.
 Here you will find out how to host your own server.
 
 {% for post in site.categories.hosting %}
-  - [{{ post.title }}]({{ post.url | absolute_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}
 
@@ -40,7 +40,7 @@ Here you will find out how to host your own server.
 Here you will find all walkthroughs concerning the singleplayer.
 
 {% for post in site.categories.singleplayer %}
-  - [{{ post.title }}]({{ post.url | absolute_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}
 
@@ -49,7 +49,7 @@ Here you will find all walkthroughs concerning the singleplayer.
 Here you will find all tutorials and tips and tricks on how to improve your gameplay.
 
 {% for post in site.categories.gameplay %}
-  - [{{ post.title }}]({{ post.url | absolute_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}
 
@@ -58,7 +58,7 @@ Here you will find all tutorials and tips and tricks on how to improve your game
 Here you will find all guides that do not fit in any other the above sections.
 
 {% for post in site.categories.miscellaneous %}
-  - [{{ post.title }}]({{ post.url | absolute_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}
 
