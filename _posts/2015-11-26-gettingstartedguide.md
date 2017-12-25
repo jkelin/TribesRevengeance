@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Getting Started Guide
+layout: post
+title: Getting Started
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, getting, started, troubleshoot, download, install, installation, problem, fix, issue, solve, resolution, launcher, browser
 description: Getting Started Guide page. Here you find out how to install T:V and get going!
 date: 26/11/2015
 permalink: /tutorials/gettingstarted/gettingstartedguide/
+author: Highdive
+categories: getting started
 ---
 
 Getting Tribes (Re)Vengeance up and running is now easier than ever before! Simply download the game and start playing!

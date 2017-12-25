@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Ping Optimization Tutorial
+layout: post
+title: Ping Optimization
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, ping, optimization, improve, latency, network, speed, netspeed,
 description: Ping Optimization Tutorial page. Here, you find out how to improve your ingame ping!
 date: 02/03/2014
 permalink: /tutorials/performancetweaks/pingoptimization/
+author: Originally written by MalOx, Cobra and Morpheus. Updated by HighDive.
+categories: performance
 ---
 
 On this page you will find all sorts of tweaks which you can apply in order to decrease your ping or stabilize your connection.
@@ -117,11 +119,3 @@ By typing `netspeed 30000`, you will set your Max connection speed to 30kB/s. Fa
   
 
 You can play with the console command to find the value that suits your internet connection speed best. Otherwise you can simply use one of the available connection speed presets ingame.
-
-  
-
-* * *
-  
-
-Originally written by MalOx, Cobra and Morpheus. Updated by HighDive.
-

@@ -1,10 +1,12 @@
 ---
-layout: page
-title: FPS Optimization Tutorial
+layout: post
+title: FPS Optimization
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, fps, frames, per, second, optimization
 description: FPS Optimization Tutorial page. Here, you find out how to optimize your FPS!
 date: 02/03/2014
 permalink: /tutorials/performancetweaks/improvefps/
+author: Originally written by MalOx, Cobra and Morpheus. Updated by HighDive.
+categories: performance
 ---
 
 On this page you will find out how you can improve your frames per second, or rather FPS. The frames per second number represent the amount of frames you see per second, hence the name. The higher the FPS value, the smoother the game may appear to be.
@@ -75,9 +77,3 @@ You can do this by following these steps:
 3. Go to the **Video** tab
 4. **Decrease** the **Dynamic Shadow Detail**
  ![](shadowdetail.jpg)  
-  
-
-* * *
-  
-
-Originally written by MalOx, Cobra and Morpheus. Updated by HighDive.

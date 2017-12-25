@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Installing Maps Tutorial
+layout: post
+title: Installing Maps
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, install, map, manual, executable, unzip, tvm, mopp 
 description: Map Installation Guide page. Here you find out how to install Tribes Vengeance maps!
 date: 27/02/2014
 permalink: /tutorials/gettingstarted/installingmaps/
+author: Guide originally written by Harabec and HighDive.
+categories: getting started
 ---
 
 This guide will explain how to install maps in Tribes Vengeance.
@@ -48,7 +50,3 @@ Now that we know which files are involved and where they need to be placed, we c
     ![](unzipmaps.jpg)
 5. Inside you will find a **Content** folder, containing the **Maps** and **HavokData** subfolder.
 6. Extract the **Content** map into your `.../VUGames/Tribes Vengeance` folder
-  
-  
-
-Guide originally written by Harabec and HighDive.

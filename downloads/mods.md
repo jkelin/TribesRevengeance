@@ -116,7 +116,7 @@ Readme file included.
 
 Gameplay enhancement mod.
 
-This mod does the same as **crybaby2** , plus a few extra things, like making burner ammo based, changing all base turrets to chainguns and some more things.
+This mod does the same as **crybaby2**, plus a few extra things, like making burner ammo based, changing all base turrets to chainguns and some more things.
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 

@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Improve Loading Speed Tutorial
+layout: post
+title: Improve Loading Speed
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, improve, loading, speed, entry, menu, class
 description: Improve Loading Speed Tutorial page. Here, you find out how to improve the game's loading speed!
 date: 02/03/2014
 permalink: /tutorials/performancetweaks/loadingspeed/
+author: Originally written by MalOx. Updated by Cobra and HighDive.
+categories: performance
 ---
 
 On this page you will find out how you can improve your game loading speed. Follow these steps to do so:
@@ -15,9 +17,3 @@ On this page you will find out how you can improve your game loading speed. Foll
 4. **Change** `EntryMenuClass=[Value]` to " `EntryMenuClass=`
 
  ![](loadspeed.jpg)  
-  
-
-* * *
-  
-
-Originally written by MalOx. Updated by Cobra and HighDive.

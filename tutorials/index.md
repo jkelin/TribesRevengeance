@@ -15,19 +15,6 @@ To seperate the large volume of tutorials, we have decided to make 6 subsections
 Here you will find all guides that will help you get the game up and running.
 
 
-
-## [Singleplayer](/tutorials/singleplayer)
-
-Here you will find all walkthroughs concerning the singleplayer.
-
-
-
-## [Gameplay](/tutorials/gameplay)
-
-Here you will find all tutorials and tips and tricks on how to improve your gameplay.
-
-
-
 ## [Performance Tweaks](/tutorials/performancetweaks)
 
 Here you will find all tutorials on how to improve your fps, ping, etc.
@@ -38,6 +25,14 @@ Here you will find all tutorials on how to improve your fps, ping, etc.
 
 Here you will find out how to host your own server.
 
+## [Singleplayer](/tutorials/singleplayer)
+
+Here you will find all walkthroughs concerning the singleplayer.
+
+
+## [Gameplay](/tutorials/gameplay)
+
+Here you will find all tutorials and tips and tricks on how to improve your gameplay.
 
 
 ## [Miscellaneous](/tutorials/miscellaneous)
