@@ -27,7 +27,7 @@ Here you will find all tutorials on how to improve your fps, ping, etc.
 ## Server Hosting
 Here you will find out how to host your own server.
 
-{% for post in site.categories.hosting %}
+{% for post in site.categories.serverhosting %}
   - [{{ post.title }}]({{ post.url | relative_url }})
     - {{ post.description }}
 {% endfor %}

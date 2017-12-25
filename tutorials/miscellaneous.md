@@ -10,7 +10,8 @@ This section of the tutorials is dedicated to help you with everything, Tribes V
 
 Stay tuned!
 
-  
+
+{% include postlist.html posts=site.categories.miscellaneous %}
 
 <!-- ## [Announcer Voice]({{ "/tutorials/miscellaneous/announcer" | relative_url  }})
 
@@ -18,9 +19,9 @@ Learn how to change or disable the announcer voice! -->
 
   
 
-## [Cache Manager]({{ "/tutorials/miscellaneous/cachemanager" | relative_url  }})
+<!-- ## [Cache Manager]({{ "/tutorials/miscellaneous/cachemanager" | relative_url  }})
 
-Learn everything about cache files and how to keep them in here!
+Learn everything about cache files and how to keep them in here! -->
 
   
 
@@ -30,15 +31,15 @@ This guide will explain what the demo system is, how it works, etc. -->
 
   
 
-## [Enabling Console]({{ "/tutorials/miscellaneous/enablingconsole" | relative_url  }})
+<!-- ## [Enabling Console]({{ "/tutorials/miscellaneous/enablingconsole" | relative_url  }})
 
-This guide will explain how to enable the console.
+This guide will explain how to enable the console. -->
 
   
 
-## [Enable Windowed Mode]({{ "/tutorials/miscellaneous/enablingwindowedmode" | relative_url  }})
+<!-- ## [Enable Windowed Mode]({{ "/tutorials/miscellaneous/enablingwindowedmode" | relative_url  }})
 
-This guide will explain how to enable windowed mode.
+This guide will explain how to enable windowed mode. -->
 
   
 

@@ -8,6 +8,8 @@ permalink: /tutorials/serverhosting/
 
 This section of the tutorials is dedicated to help you get your server off the ground. It will cover how to install mods, how to optimize your server's performance, etc.
 
-## [Server Setup Guide]({{ "/tutorials/serverhosting/serversetup" | relative_url  }})
+{% include postlist.html posts=site.categories.serverhosting %}
 
-This guide will walk you through the steps on how to get your server off the ground.
+<!-- ## [Server Setup Guide]({{ "/tutorials/serverhosting/serversetup" | relative_url  }})
+
+This guide will walk you through the steps on how to get your server off the ground. -->

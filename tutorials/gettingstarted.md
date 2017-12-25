@@ -12,21 +12,4 @@ This section of the tutorials is dedicated to help you get everything running pe
 
 A summary of the tutorials covering these topics can be found below, accompanied by a brief description.
 
-  
-  
-
-## [Getting started guide]({{ "/tutorials/gettingstarted/gettingstartedguide" | relative_url  }})
-
-This tutorial will walk you through all steps needed to get Tribes Vengeance going.
-
-  
-
-## [Installing Maps]({{ "/tutorials/gettingstarted/installingmaps" | relative_url  }})
-
-This guide explains how to install maps.
-
-  
-
-## [Installing Skins]({{ "/tutorials/gettingstarted/installingskins" | relative_url  }})
-
-This guide explains how to install skins.
+{% include postlist.html posts=site.categories.getting_started %}
