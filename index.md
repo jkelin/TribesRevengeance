@@ -30,3 +30,7 @@ Interested to see what (a part of) the game is like? At what phase is being play
 This site is [fully open source and hosted on Github]({{ "https://github.com/" | append: site.github_username | append: "/" | append: site.github_repo }}). If you would like to contribute or have a resource that you would like to keep for future generations of Tribes players - feel free to open a pull request.
 
 As such, it should be virtually impossible for it's content to get lost (like it happend to many of it's predecessors) because when it's current maintainer goes dark - anyone can pickup the torch again!
+
+## Missing resources
+
+This site is primarily constructed from fragments of old [http://tribesrevengeance.com](http://tribesrevengeance.com) scraped from [Archive.org](http://archive.org). As such, many files, tutorials and guides are missing. If you happen to have any of these missing resources don't hesitate and [contact us]({{ "/contact" | relative_url }})!
