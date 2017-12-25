@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-permalink: '/links'
+permalink: '/links/'
 title: Links
 description: Links to relevant websites
 ---
