@@ -95,7 +95,7 @@ In order for this tool to work correctly you need to have the **[.net framework 
   
   
 
-## [Server Query]({{ site.downloads_url | append: "/all/miscellaneous/ServerQuery.rar" }})
+## [Server Query]({{ site.downloads_url | append: "/all/ServerQuery.rar" }})
 
 Server management tool.
 
@@ -106,7 +106,7 @@ This tool allowes you to monitor any server, of which the IP and port is entered
   
   
 
-## [Tribes Vengeance Server Browser]({{ site.downloads_url | append: "/all/miscellaneous/TVServerBrowser.exe" }})
+## [Tribes Vengeance Server Browser]({{ site.downloads_url | append: "/all/TVServerBrowser.exe" }})
 
 Server browser by B7ADE. This program displays all active servers, plus amount of players, current map, admin email, IP, ping, amount of player slots, etc.
 
@@ -115,7 +115,7 @@ It also allows you to select a server and join it by pressing the join button. I
   
   
 
-## [TVSpawn]({{ site.downloads_url | append: "/all/miscellaneous/tvspawn.zip" }})
+## [TVSpawn]({{ site.downloads_url | append: "/all/tvspawn.zip" }})
 
 Server management tool.
 
