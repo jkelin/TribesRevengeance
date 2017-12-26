@@ -31,4 +31,4 @@ As such, it should be virtually impossible for it's content to get lost (like it
 
 ## Missing resources
 
-This site is primarily constructed from fragments of old [http://tribesrevengeance.com](http://tribesrevengeance.com) scraped from [Archive.org](http://archive.org). As such, many files, tutorials and guides are missing. If you happen to have any of these missing resources don't hesitate and [contact us]({{ "/contact" | relative_url }})!
+This site is primarily constructed from fragments of old [http://tribesrevengeance.com](http://tribesrevengeance.com) scraped from [Archive.org](http://archive.org). As such, many files, tutorials and guides are missing. If you happen to have any of these missing resources don't hesitate and [Contact Us]({{ "/contact/" | relative_url }})!

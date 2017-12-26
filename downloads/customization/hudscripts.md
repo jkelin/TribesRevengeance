@@ -6,7 +6,7 @@ description: HUD script Download page. Download many T:V HUD scripts, as the spe
 permalink: /downloads/customization/hudscripts/
 ---
 
-On this page you will find all available HUD scripts for Tribes Vengeance. Click on the name of the given HUD script to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us]({{ "/contact" | relative_url }}).
+On this page you will find all available HUD scripts for Tribes Vengeance. Click on the name of the given HUD script to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us]({{ "/contact/" | relative_url }}).
 
 Further description and instructions are coming soon!
 
