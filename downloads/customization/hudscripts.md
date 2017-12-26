@@ -13,48 +13,48 @@ Further description and instructions are coming soon!
   
   
 
-## [Flag HUD]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/FlagHUD.zip" }})
+## [Flag HUD]({{ site.downloads_url | append: "/all/FlagHUD.zip" }})
 
 Shows the current status of the flags. Readme included.
 
 
   
 
-## [HUDstuff]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/HUDstuff.zip" }})
+## [HUDstuff]({{ site.downloads_url | append: "/all/HUDstuff.zip" }})
 
 HUD script. Readme included.
 
   
   
 
-## [ingHUD]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/ingHUD.zip" }})
+## [ingHUD]({{ site.downloads_url | append: "/all/ingHUD.zip" }})
 
 HUD script. Readme included. Requires you to have HUDstuff installed first!
 
   
   
 
-## [HUDstuff]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/HUDstuff.zip" }})
+## [HUDstuff]({{ site.downloads_url | append: "/all/HUDstuff.zip" }})
 
 HUD script. Readme included.
 
   
   
 
-## [Ping HUD]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/PingHUD101.zip" }})
+## [Ping HUD]({{ site.downloads_url | append: "/all/PingHUD101.zip" }})
 
 HUD script. Readme included.
 
   
   
 
-## [Speedbar]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/SpeedBar.zip" }})
+## [Speedbar]({{ site.downloads_url | append: "/all/SpeedBar.zip" }})
 
 HUD script. Readme included.
 
   
   
 
-## [Old Speedbar]({{ site.downloads_url | append: "/customization2/Customization/HUD addons/SpeedBar_Old.zip" }})
+## [Old Speedbar]({{ site.downloads_url | append: "/all/SpeedBar_Old.zip" }})
 
 HUD script. Readme included.
