@@ -1,7 +1,7 @@
 Tribes Vengeance Resurrection site
 ==================================
 
-If you have an article/tutorial/guide you would like to contribute, look into [_posts](_posts) folder.
+If you have an article/tutorial/guide you would like to contribute, look into [_posts](_posts) folder. Also check out [TODOs](TODO.md) for list of things that need doing.
 
 If you find a typo, have an idea or feature request - feel free to submit an or make a pull request.
 
