@@ -9,6 +9,7 @@ Things that need doing in no particular order:
       - Dead links should display red tag
       - Alive links should display grey tag with filesize
 - [ ] Create system (or use service or so...) that will automatically scan download links and check their alive/dead status, export this into txt so we know what still needs doing
+- [ ] Fix /downloads/customization/reticlesandcrosshairs/ that cannot be found
 
 Content that needs to be ported:
 ================================
