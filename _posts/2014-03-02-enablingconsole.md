@@ -15,14 +15,12 @@ On this page you will find out how to enable the in game console. A must do, if 
 
 In order to enable the console, you must follow these steps:
 
-- 
-
-1. **Find** or **create** a shortcut of your `TV_CD_DVD.exe`
+ 1. **Find** or **create** a shortcut of your `TV_CD_DVD.exe`
 
 NOTE: The `TV_CD_DVD.exe` is located in the `.../VUGames/Tribes Vengeance/Program/Bin` folder
 
-- 2. **Rightclick** the shortcut
-- 3. **Modify** the **target** field, by adding `-console` in the back (mind the whitespace)
+ 2. **Rightclick** the shortcut
+ 3. **Modify** the **target** field, by adding `-console` in the back (mind the whitespace)
   
 
 So for example you get the following: `"C:\Program Files\VUGames\Tribes Vengeance\Program\Bin\TV\_CD\_DVD.exe" -console`
