@@ -19,6 +19,11 @@ Revengeance's `engine.dll` communicates with the following urls:
 4. (appers to be unused) `http://d.motd.tribesv.org/dlfileraw.asp?file=%d&gamename=%s`
 
 
+## Backwards slash encoding
+
+This kind of encoding is used in gamespy server query protocol as well as version check protocol
+It is basically ASCII encoded `\name1\value1\name2\value2\` and so on.
+
 ## Version checks
 
 ![Update available popup]({{ "/assets/images/posts/tv_update_available.jpg" | relative_url }})
@@ -32,7 +37,7 @@ Codepath is basically
 
 Tribes sends GET request `http://motd.tribesv.org/motd/vercheck.asp?productid=10397&versionuniqueid=63446&distid=1057&gamename=tribesv` with `User-Agent: GameSpyHTTP/1.0` and `Connection: close` headers.
 
-It is expected that the server returns forward-slash-encoded string with:
+It is expected that the server returns backwards-slash-encoded string with:
 
 - `dlurl`: string, optional (`dlurl` or `fpfileid` is required) - Url used for download. Is also displayed in the UI.
 - `newver`: int, mandatory, truthy (not 0) - I assume this was supposed to be version of the download, but T:V devs never got around to checking it. It can be `1` and everything works.
