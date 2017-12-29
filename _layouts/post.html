@@ -16,7 +16,12 @@ layout: default
             {{ page.date | date: date_format }}
           </time>
           {% if page.author %}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span itemprop="name">{{ page.author }}</span>
+            </span>
+          {% endif %}
+          {% if page.author_link %}
+          • <a itemprop="url" href="{{ page.author_link }}">{{ page.author_link }}</a>
           {% endif %}
         </p>
       </p>
