@@ -1,14 +1,3 @@
-Things that need doing in no particular order:
-==============================================
-
-- [ ] Improve contact.md (there is not enough content there)
-- [ ] Improve links.md (it's ugly and not aligned properly)
-- [ ] Optimize bulma size (in main.scss link only to things being used)
-- [ ] Consider using svg icons in favor of font awesome (because it is huge)
-- [ ] Create system for adding tags to download links so that users know what is alive and what is missing
-      - Dead links should display red tag
-      - Alive links should display grey tag with filesize
-- [ ] Create system (or use service or so...) that will automatically scan download links and check their alive/dead status, export this into txt so we know what still needs doing
 
 Content that needs to be ported:
 ================================
@@ -23,3 +12,15 @@ Content that needs to be ported:
 
 Content that has been lost to time and is being searched for:
 =============================================================
+
+Systematic things that need doing in no particular order:
+==============================================
+
+- [ ] Improve contact.md (there is not enough content there)
+- [ ] Improve links.md (it's ugly and not aligned properly)
+- [ ] Optimize bulma size (in main.scss link only to things being used)
+- [ ] Consider using svg icons in favor of font awesome (because it is huge)
+- [ ] Create system for adding tags to download links so that users know what is alive and what is missing
+      - Dead links should display red tag
+      - Alive links should display grey tag with filesize
+- [ ] Create system (or use service or so...) that will automatically scan download links and check their alive/dead status, export this into txt so we know what still needs doing
