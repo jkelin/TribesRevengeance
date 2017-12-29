@@ -25,6 +25,11 @@ Revengeance's `engine.dll` communicates with the following urls:
 
 Version update checks happen on `motd.tribesv.org/motd/vercheck.asp`.
 
+Codepath is basically
+1. Unrealscript `source\Unreal\Engine\Classes\GameSpy\GameSpyManager.uc`:`native function QueryPatch`
+2. Engine.dll
+3. Unrealscript `source\Unreal\Engine\Classes\GameSpy\GameSpyManager.uc`:`private event QueryPatchCompleted`
+
 Tribes sends GET request `http://motd.tribesv.org/motd/vercheck.asp?productid=10397&versionuniqueid=63446&distid=1057&gamename=tribesv` with `User-Agent: GameSpyHTTP/1.0` and `Connection: close` headers.
 
 It is expected that the server returns forward-slash-encoded string with:
@@ -35,7 +40,7 @@ It is expected that the server returns forward-slash-encoded string with:
 - `fpfileid`: int, optional (`dlurl` or `fpfileid` is required) - Is added to `http://www.fileplanet.com/index.asp?file=` in unrealscript to create the url.
 - `newvername`: string, optional - This should be probably displayed somewhere in the interface, but I could not manage to make it work.
 
-Thus server would respond with `\newver\1\dlurl\http://downloads.fireant.pw/TribesVengeance.zip\` to show the popup.
+Thus server would respond with `\newver\1\dlurl\http://downloads.tribesrevengeance.net/TribesVengeance.zip\` to show the popup.
 
 Relevant decompiled code snippet (of code that parses the response):
 
