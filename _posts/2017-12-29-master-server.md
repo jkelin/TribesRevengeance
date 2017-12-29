@@ -11,7 +11,7 @@ draft: true
 
 This is more of a brain dump than anything into currently ongoing investigation.
 
-Revengeance's `engine.dll` communicates with the following urls:
+Revengeance's `Engine.dll` communicates with the following urls:
 
 1. `http://motd.tribesv.org/motd/vercheck.asp?productid=%d&versionuniqueid=%s&distid=%d&gamename=%s`
 2. `http://motd.tribesv.org/motd/motd.asp?userid=%d&productid=%d&versionuniqueid=%s&distid=%d&uniqueid=%s&gamename=%s`
@@ -51,7 +51,7 @@ Relevant decompiled code snippet (of code that parses the response):
 
 ```c
 /*
-Taken from strings portion of engine.dll
+Taken from strings portion of Engine.dll
 
 .data:1073F6CC                                         ; DATA XREF: sub_1050CD10:loc_1050D040o
 .data:1073F6E7                 align 4

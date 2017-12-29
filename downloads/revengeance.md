@@ -42,4 +42,4 @@ Upgrades the old Engine.dll file. This fix is only necessary for those using an 
 
 ## [Original Engine.dll]({{ site.downloads_url | append: "/all/Engine_original.dll" }})
 
-Original engine.dll kept for archeological reasons.
+Original Engine.dll kept for archaeological reasons.
