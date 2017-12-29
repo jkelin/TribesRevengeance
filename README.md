@@ -13,8 +13,8 @@ Making changes or writing articles/tutorials/guides for the non-technical
 1. Setup GitHub account
 2. [Fork](https://www.youtube.com/watch?v=f5grYMXbAV0) this repository
 3. Make changes to your forked repository
-  - For example: copy one of the tutorials in [_posts](_posts) folder and make changes to it
-  - [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) is used for formatting
+    - For example: copy one of the tutorials in [_posts](_posts) folder and make changes to it
+    - [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) is used for formatting
 4. Submit a [pull request](https://help.github.com/articles/about-pull-requests/)
 5. Await acceptance of your changes
 6. Brag about being an open source contributor
