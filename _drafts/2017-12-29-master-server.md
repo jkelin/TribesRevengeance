@@ -6,7 +6,6 @@ date: 2017-12-29
 permalink: /tutorials/miscellaneous/master-server/
 author: Fireant
 categories: miscellaneous
-draft: true
 ---
 
 This is more of a brain dump than anything into currently ongoing investigation.
@@ -49,7 +48,7 @@ Thus server would respond with `\newver\1\dlurl\http://downloads.tribesrevengean
 
 Relevant decompiled code snippet (of code that parses the response):
 
-```c
+{% highlight c linenos %}
 /*
 Taken from strings portion of Engine.dll
 
@@ -139,4 +138,4 @@ signed int __cdecl sub_1050D2C0(int a1, int a2, const char *a3)
   }
   return result;
 }
-```
+{% endhighlight %}
