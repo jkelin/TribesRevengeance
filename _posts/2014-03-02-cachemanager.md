@@ -9,7 +9,7 @@ author: Originally written by Tribesvdl.com. Updated by HighDive.
 categories: miscellaneous
 ---
 
-On this page you will find out how to use the Cache Manager, an awesome little tool which handles your cache files!.
+On this page you will find out how to use the Cache Manager, an awesome little tool which handles your cache files!
 
   
 
