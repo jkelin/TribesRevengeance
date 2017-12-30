@@ -3,7 +3,7 @@ layout: page
 title: Reticle and crosshair Downloads
 keywords: tribesrevengeance, tribes, vengeance, revengeance, download, reticle, crosshair, dot, merc, rets, square
 description: Reticle and crosshair Download page. Download many T:V reticles and crosshair such as the famous dot and more!
-permalink: /downloads/customization/reticlesandcrusshairs/
+permalink: /downloads/customization/reticlesandcrosshairs/
 ---
 
 On this page you will find all available reticles and crosshairs for Tribes Vengeance. Click on the name of the given reticle/crosshair to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of (more) assistance, please [Contact Us]({{ "/contact/" | relative_url }}).
