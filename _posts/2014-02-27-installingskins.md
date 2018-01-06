@@ -21,7 +21,7 @@ Before explaining how to install the skins, it is important to know that Tribes 
 
 To install and activate playermodelskins, please follow these steps:
 
-1. **[download]({{ "/downloads/skins" | relative_url }})** the playermodelskins you would like to have
+1. **[download]({{ "/downloads/skins/" | relative_url }})** the playermodelskins you would like to have
 
 2. If the file you downloaded is an executable file, **enter** your `.../VUGames/Tribes Vengeance` folder
 
@@ -33,7 +33,7 @@ To install and activate playermodelskins, please follow these steps:
 
 To install and activate weaponskins, please follow these steps:
 
-1. **[download]({{ "/downloads/skins" | relative_url }})** the playermodelskins you would like to have
+1. **[download]({{ "/downloads/skins/" | relative_url }})** the playermodelskins you would like to have
 
 2. If the file you downloaded is an executable file, **enter** your `.../VUGames/Tribes Vengeance` folder
 
