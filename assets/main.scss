@@ -2,6 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$gap: 32px;
+$desktop: 990px + (2 * $gap);
+$widescreen: 1276px + (2 * $gap);
+
 @charset "utf-8";
 
 @import "bulma/utilities/_all";
@@ -60,4 +64,8 @@ html {
 
 body {
   background: white;
+}
+
+.control.is-expanded {
+  flex-basis: 0;
 }
