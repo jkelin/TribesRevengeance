@@ -16,4 +16,4 @@ On this page you will find out how you can improve your game loading speed. Foll
 3. **Find** the following, by using CTRL + F: `[Gameplay.TribesGUIConfig]`
 4. **Change** `EntryMenuClass=[Value]` to " `EntryMenuClass=`
 
- ![](loadspeed.jpg)  
+![]({{ "/assets/images/posts/loadspeed.jpg" | relative_url }})  

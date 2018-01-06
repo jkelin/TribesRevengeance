@@ -42,7 +42,8 @@ You can do this by following these steps:
 3. **Search** the following line, by using CTRL + F: `D3DDrv.D3DRenderDevice]`
 4. **Change** ReduceMouseLagg=True to `ReduceMouseLagg=False`
 5. **Save** the file and **reboot** Tribes Vengeance
- ![](reducemouselagghelper.jpg)  
+
+![]({{ "/assets/images/posts/reducemouselagghelper.jpg" | relative_url }})  
 
 ## Vsync and refresh rate
 
@@ -58,7 +59,8 @@ You can do that by following these steps:
 4. **Change** UseTrippleBuffering=False to `UseTrippleBuffering=True`
 4. **Change** UseVsync=True to `UseVsync=False`
 5. **Change** DesiredRefreshRate=[NUMBER] to `DesiredRefreshRate=[MAX REFRESH RATE YOUR MONITOR SUPPORTS]`
-![](vsyncandrefreshrate.jpg)
+
+![]({{ "/assets/images/posts/vsyncandrefreshrate.jpg" | relative_url }})
 
 NOTE: Setting `UseVsync=False` can and/or will cause screen tearing. This however does improve your FPS, which is why it was added.
 
@@ -76,4 +78,5 @@ You can do this by following these steps:
 2. Go to the in game **options**
 3. Go to the **Video** tab
 4. **Decrease** the **Dynamic Shadow Detail**
- ![](shadowdetail.jpg)  
+
+![]({{ "/assets/images/posts/shadowdetail.jpg" | relative_url }})  

@@ -63,7 +63,7 @@ Lets go a tad deeper on this one and explain how and why this is interesting, as
 
 Your maximum connection speed is defined by a number in Bytes per seconds. The connection speed is the maximum amount of data allowed to be received or sent per second.
 
- ![](pingpic1.jpg)
+![]({{ "/assets/images/posts/pingpic1.jpg" | relative_url }})
 
 The presets you can find ingame (see above) all have a different values suited for specific internet connections.
 

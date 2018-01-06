@@ -47,6 +47,6 @@ Now that we know which files are involved and where they need to be placed, we c
 
     - It does not have to be WinRAR, it can also be 7ZIP, etc.
 
-    ![](unzipmaps.jpg)
+    ![]({{ "/assets/images/posts/unzipmaps.jpg" | relative_url }})
 5. Inside you will find a **Content** folder, containing the **Maps** and **HavokData** subfolder.
 6. Extract the **Content** map into your `.../VUGames/Tribes Vengeance` folder
