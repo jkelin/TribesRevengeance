@@ -1,8 +1,9 @@
+There may be pages in [_drafts](_drafts) folder that are half finished or half ported. Good starting point is there.
 
 Content that needs to be ported:
 ================================
 
-- [ ] https://docs.google.com/document/d/1AchVvJIvVeziby8n-rA51_ibEMwZ2dK2-2UNKkPbbGQ/edit
+- [x] https://docs.google.com/document/d/1AchVvJIvVeziby8n-rA51_ibEMwZ2dK2-2UNKkPbbGQ/edit
 - [ ] http://forums.videogames101.net/index.php?topic=473.0
 - [x] http://forums.videogames101.net/index.php?topic=474.0
 - [ ] http://forums.videogames101.net/index.php?topic=472.0
