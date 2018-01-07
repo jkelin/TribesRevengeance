@@ -16,9 +16,6 @@ Getting Tribes (Re)Vengeance up and running is now easier than ever before! Simp
 Please browse to the [Tribes Revengeance download page]({{ "/downloads/revengeance/" | relative_url }}).
 
 We sincerely hope you will enjoy the game.
-
-<!-- For support please visit our [forum](forum.tribesrevengeance.com/index). -->
-
   
   
   

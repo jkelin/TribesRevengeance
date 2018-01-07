@@ -302,11 +302,11 @@ Readme file included.
   
   
 
-## [Server Status]({{ site.downloads_url | append: "/all/ServerStatus_v2.u" }})
+## [Server Status](https://github.com/jkelin/TribesVengeanceServerStatus)
 
 Server management mod.
 
-This mod sends information to the [Tribesrevengeance.com]({{ "/" | relative_url  }}) domain, so we can display ingame player performances on our [statistics]({{ site.stats_url }}) page.
+This mod sends information to the [TribesRevengeance]({{ "/" | relative_url  }}) domain, so we can display ingame player performances on our [statistics]({{ site.stats_url }}) page.
 
 s 
 

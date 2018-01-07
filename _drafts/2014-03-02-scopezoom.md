@@ -2,7 +2,7 @@
 layout: post
 title: Scope Zoom Tutorial
 keywords: tribesrevengeance, tribes, vengeance, revengeance, tutorial, guide, add, change, scope, zoom, level
-description: TribesRevengeance.com - Scope Zoom Turorial page. Here you learn how to add, change or delete scope zoom levels.
+description: Scope Zoom Turorial page. Here you learn how to add, change or delete scope zoom levels.
 date: 02/03/2014
 permalink: /tutorials/miscellaneous/scopezoom/
 author: Originally written by MalOx. Updated by Cobra and HighDive
