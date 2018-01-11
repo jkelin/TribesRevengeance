@@ -11,27 +11,22 @@ categories: miscellaneous
 
 On this page you will find out how to fix the sniping laser.
 
-  
-
 If you have tried sniping before, you might know that the laser does not hit the target dead on. Follow these steps to resolve this issue:
 
-- 1. **Go** to the **.../VUGames/Tribes Vengeance/Content/System** folder
-- 2. **Open** the **TribesHUD.ini** file
-- 3. **Search** the following line, by using CTRL + F: `[default_weaponReticule]`
-- 
+1. **Go** to the **`.../VUGames/Tribes Vengeance/Content/System`** folder
+2. **Open** the **`TribesHUD.ini`** file
+3. **Search** the following line, by using CTRL + F: `[default_weaponReticule]`
 
 4. **Look** for the following lines:
-
-  
-
+    ```
     scale=1.0 
-    		zoomReticuleWidth=256 
-    		zoomReticuleHeight=256 
-    		zoomReticuleCenterX=128 
-    		zoomReticuleCenterY=120
-
+    zoomReticuleWidth=256 
+    zoomReticuleHeight=256 
+    zoomReticuleCenterX=128 
+    zoomReticuleCenterY=120
+    ```
   
-- 5. The line you want to tweak is the **last** one. It is this value that causes some problems.
+5. The line you want to tweak is the **last** one. It is this value that causes some problems.
 
 **NOTE** : These lines may not exist in your TribesHUD.ini. This is usually the case with some custom HUDs. However, you can simply copy paste the code lines above tomake the fix work.
 
