@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tribes Vengeance resurrection site. Information, downloads, guides, tutorials and links.
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-downloads_url: "http://downloads.tribesrevengeance.com/all/"
+downloads_url: "http://downloads.tribesrevengeance.com"
 download_game_url: "http://downloads.tribesrevengeance.com/TribesVengeance.zip" # the base hostname & protocol for your site, e.g. http://example.com
 # downloads_url: "https://downloads.tribesrevengeance.net" # the base hostname & protocol for your site, e.g. http://example.com
 # download_game_url: "https://downloads.tribesrevengeance.net/TribesVengeance.zip" # the base hostname & protocol for your site, e.g. http://example.com
