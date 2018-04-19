@@ -19,7 +19,7 @@ Around 2013 GameSpy company that hosted TV's master server went defuct. Tribes V
 
 ### New to Tribes Vengeance?
 
-Interested to see what (a part of) the game is like? At what phase is being played? Then be sure to check the following video out!
+Interested to see what (a part of) the game is like? The level being played? Then be sure to check the following video out!
 
 {% include yt-video.html id="FbjponR3_mE" %}
 
