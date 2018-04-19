@@ -20,7 +20,8 @@ Current expenses:
 Material donations (server hosting) are also very welcome.
 
 ### Paypal
-**Yidbon** (preferred): [Paypal](https://www.paypal.com/donate/?token=Dg3iUhf1Wh1mdjkzlMQ_DuDNxP42IiGjSZQocNUNsp_5sns1JCXoZOWgPyetEssoY_NxA0) ([history](/assets/images/donation_history/yidbon.jpg))
+**Yidbon**: [Paypal](https://www.paypal.com/donate/?token=Dg3iUhf1Wh1mdjkzlMQ_DuDNxP42IiGjSZQocNUNsp_5sns1JCXoZOWgPyetEssoY_NxA0) ([history](/assets/images/donation_history/yidbon.jpg))
+**SyNko**: [Paypal](https://paypal.me/SyNko)
 
 ### Bitcoin
 **Fireant**: 15QepogzjyTopYVFJqn6VJgLxrEZsoQe7C ([history](https://blockchain.info/address/15QepogzjyTopYVFJqn6VJgLxrEZsoQe7C))
