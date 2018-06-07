@@ -6,7 +6,7 @@ layout: page
 permalink: '/donate/'
 title: Donate
 description: Donate to keep the servers running
-date: 2018-4-19
+date: 2018-6-7
 ---
 
 Vengeance is fueled by time and money, please donate to keep it going!
