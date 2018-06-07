@@ -12,7 +12,7 @@ date: 2018-4-19
 Vengeance is fueled by time and money, please donate to keep it going!
 
 Current expenses:
-* AI Game servers hosted by *SyNko*
+* Public game servers hosted by *Cake*
 * Stats hosting on a VPS run by *Fireant*
 * Downloads and forum hosting by *Fireant* - prepaid to 2019-12-30
 * TribesReVengeance.net domain by *Fireant* - prepaid to 2018-12-24
@@ -20,8 +20,7 @@ Current expenses:
 Material donations (server hosting) are also very welcome.
 
 ### Paypal
-**Yidbon**: [Paypal](https://www.paypal.com/donate/?token=Dg3iUhf1Wh1mdjkzlMQ_DuDNxP42IiGjSZQocNUNsp_5sns1JCXoZOWgPyetEssoY_NxA0) ([history](/assets/images/donation_history/yidbon.jpg)) <br>
-**SyNko**: [Paypal](https://paypal.me/SyNko) ([history](/assets/images/donation_history/synko.png))
+**Server pool**: [Paypal](https://paypal.me/pools/c/854vHO3VL2)
 
 ### Bitcoin
 **Fireant**: 15QepogzjyTopYVFJqn6VJgLxrEZsoQe7C ([history](https://blockchain.info/address/15QepogzjyTopYVFJqn6VJgLxrEZsoQe7C))
