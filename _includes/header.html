@@ -10,55 +10,55 @@
           <strong class="is-hidden-mobile">&nbsp; TribesRevengeance</strong>
         </a>
 
-        <a class="navbar-item is-hidden-desktop" href='{{ "/tutorials/" | relative_url }}'>Tutorials</a>
-        <a class="navbar-item is-hidden-desktop" href='{{ "/downloads/" | relative_url }}'>Downloads</a>
+        <a name="tutorials-main" role="navigation" class="navbar-item is-hidden-desktop" href='{{ "/tutorials/" | relative_url }}'>Tutorials</a>
+        <a name="downloads-main" role="navigation" class="navbar-item is-hidden-desktop" href='{{ "/downloads/" | relative_url }}'>Downloads</a>
 
         <div class="navbar-item has-dropdown is-hoverable is-hidden-touch">
-          <a class="navbar-link" href='{{ "/tutorials/" | relative_url }}'>Tutorials</a>
+          <a name="tutorials" role="navigation" class="navbar-link" href='{{ "/tutorials/" | relative_url }}'>Tutorials</a>
           <div class="navbar-dropdown">
-            <a class="navbar-item" href='{{ "/tutorials/gettingstarted/" | relative_url }}'>
+            <a name="gettingstarted" class="navbar-item" href='{{ "/tutorials/gettingstarted/" | relative_url }}'>
               Getting Started
             </a>
-            <a class="navbar-item" href='{{ "/tutorials/issues/" | relative_url }}'>
+            <a name="issues" class="navbar-item" href='{{ "/tutorials/issues/" | relative_url }}'>
               Issues and solutions
             </a>
-            <a class="navbar-item" href='{{ "/tutorials/performancetweaks/" | relative_url }}'>
+            <a name="performancetweaks" class="navbar-item" href='{{ "/tutorials/performancetweaks/" | relative_url }}'>
               Performance Tweaks
             </a>
-            <a class="navbar-item" href='{{ "/tutorials/serverhosting/" | relative_url }}'>
+            <a name="serverhosting" class="navbar-item" href='{{ "/tutorials/serverhosting/" | relative_url }}'>
               Server Hosting
             </a>
-            <a class="navbar-item" href='{{ "/tutorials/singleplayer/" | relative_url }}'>
+            <a name="singleplayer" class="navbar-item" href='{{ "/tutorials/singleplayer/" | relative_url }}'>
               Singleplayer
             </a>
-            <a class="navbar-item" href='{{ "/tutorials/gameplay/" | relative_url }}'>
+            <a name="gameplay" class="navbar-item" href='{{ "/tutorials/gameplay/" | relative_url }}'>
               Gameplay
             </a>
-            <a class="navbar-item" href='{{ "/tutorials/miscellaneous/" | relative_url }}'>
+            <a name="miscellaneous" class="navbar-item" href='{{ "/tutorials/miscellaneous/" | relative_url }}'>
               Miscellaneous
             </a>
           </div>
         </div>
 
         <div class="navbar-item has-dropdown is-hoverable is-hidden-touch">
-          <a class="navbar-link" href='{{ "/downloads/" | relative_url }}'>Downloads</a>
+          <a name="downloads-main" class="navbar-link" href='{{ "/downloads/" | relative_url }}'>Downloads</a>
           <div class="navbar-dropdown is-hidden-touch">
-            <a class="navbar-item" href='{{ "/downloads/revengeance/" | relative_url }}'>
+            <a name="revengeance" class="navbar-item" href='{{ "/downloads/revengeance/" | relative_url }}'>
               Revengeance
             </a>
-            <a class="navbar-item" href='{{ "/downloads/maps/" | relative_url }}'>
+            <a name="maps" class="navbar-item" href='{{ "/downloads/maps/" | relative_url }}'>
               Maps
             </a>
-            <a class="navbar-item" href='{{ "/downloads/skins/" | relative_url }}'>
+            <a name="skins" class="navbar-item" href='{{ "/downloads/skins/" | relative_url }}'>
               Skins
             </a>
-            <a class="navbar-item" href='{{ "/downloads/mods/" | relative_url }}'>
+            <a name="mods" class="navbar-item" href='{{ "/downloads/mods/" | relative_url }}'>
               Mods
             </a>
-            <a class="navbar-item" href='{{ "/downloads/miscellaneous/" | relative_url }}'>
+            <a name="miscellaneous" class="navbar-item" href='{{ "/downloads/miscellaneous/" | relative_url }}'>
               Miscellaneous
             </a>
-            <a class="navbar-item" href='{{ "/downloads/customization/" | relative_url }}'>
+            <a name="customization" class="navbar-item" href='{{ "/downloads/customization/" | relative_url }}'>
               Customization
             </a>
           </div>
@@ -67,20 +67,20 @@
         <div class="navbar-item has-dropdown is-hoverable is-hidden-touch">
           <a class="navbar-link" href='{{ "/links/" | relative_url }}'>Links</a>
           <div class="navbar-dropdown is-hidden-touch">
-            <a class="navbar-item" href='https://forum.tribesrevengeance.net'>
+            <a name="forums" class="navbar-item" href='https://forum.tribesrevengeance.net'>
               Forums
             </a>
-            <a class="navbar-item" href='https://discord.gg/uXHjZ95'>
+            <a name="discord" class="navbar-item" href='https://discord.gg/uXHjZ95'>
               Discord
             </a>
           </div>
         </div>
 
 
-        <a class="navbar-item is-hidden-desktop" href='{{ "/links/" | relative_url }}'>Links</a>
-        <a class="navbar-item is-hidden-mobile" href='{{ "/donate/" | relative_url }}'>Donate</a>
+        <a name="links-main" class="navbar-item is-hidden-desktop" href='{{ "/links/" | relative_url }}'>Links</a>
+        <a name="donate-main" class="navbar-item is-hidden-mobile" href='{{ "/donate/" | relative_url }}'>Donate</a>
 
-        <button class="button navbar-burger" data-target="navMenu" data-no-instant>
+        <button id="hamburger-menu" class="button navbar-burger" data-target="navMenu" data-no-instant role="button" aria-label="hamburger">
           <span></span>
           <span></span>
           <span></span>
@@ -94,7 +94,7 @@
         </div>
 
         <div class="navbar-end">
-          <a class="navbar-item is-hidden-desktop-only" href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}">
+          <a name="github-link" class="navbar-item is-hidden-desktop-only" href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}">
             <span class="icon">
               <i class="fa fa-lg icon-github-circled"></i>
             </span>
@@ -103,7 +103,7 @@
           <div class="navbar-item is-hidden-desktop-only">
               <div class="field has-addons is-fullwidth">
                 <p class="control is-expanded">
-                  <a class="button is-link is-outlined is-fullwidth" href="https://forum.tribesrevengeance.net">
+                  <a name="forums" class="button is-link is-outlined is-fullwidth" href="https://forum.tribesrevengeance.net">
                     <span class="icon">
                       <i class="fa icon-bank"></i>
                     </span>
@@ -111,7 +111,7 @@
                   </a>
                 </p>
                 <p class="control is-expanded">
-                  <a class="button is-link is-outlined is-fullwidth" href="https://discord.gg/uXHjZ95">
+                  <a name="discord" class="button is-link is-outlined is-fullwidth" href="https://discord.gg/uXHjZ95">
                     <span class="icon">
                       <i class="fa icon-chat"></i>
                     </span>
@@ -123,7 +123,7 @@
           <div class="navbar-item">
             <div class="field has-addons is-fullwidth">
               <p class="control is-expanded">
-                <a class="button is-link is-outlined is-fullwidth" href="{{ site.stats_url }}">
+                <a name="stats" class="button is-link is-outlined is-fullwidth" href="{{ site.stats_url }}">
                   <span class="icon">
                     <i class="fa icon-chart-area"></i>
                   </span>
@@ -132,7 +132,7 @@
               </p>
 
               <p class="control is-expanded">
-                <a class="button is-link is-outlined is-fullwidth" href="{{ site.downloads_url }}">
+                <a name="downloads" class="button is-link is-outlined is-fullwidth" href="{{ site.downloads_url }}">
                   <span class="icon">
                     <i class="fa icon-server"></i>
                   </span>
@@ -145,7 +145,7 @@
           <div class="navbar-item">
             <div class="field">
               <p class="control">
-                <a class="button is-success is-fullwidth" href="{{ site.download_game_url }}">
+                <a name="download-tv" class="button is-link is-fullwidth" href="{{ site.download_game_url }}">
                   <span class="icon">
                     <i class="fa fa-lg icon-download"></i>
                   </span>

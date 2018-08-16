@@ -3,8 +3,8 @@
     <div class="content has-text-centered">
       <strong class="title is-4">{{ site.title | escape }}</strong>
       <br> {% include icon-github.html %}
-      <br> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-      <br> <a href="/feed.xml">RSS feed</a>
+      <br> <a name="footer-contact" aria-label="Contact email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <br> <a name="footer-rss" aria-label="RSS feed" href="/feed.xml">RSS feed</a>
     </div>
   </div>
 </footer>
