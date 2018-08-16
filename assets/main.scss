@@ -15,6 +15,7 @@ $widescreen: 1276px + (2 * $gap);
 @import "bulma/grid/_all";
 @import "bulma/layout/_all";
 @import "yt-video";
+@import "tribesrevengeance-embedded";
 
 
 .article-content {
@@ -68,4 +69,18 @@ body {
 
 .control.is-expanded {
   flex-basis: 0;
+}
+
+.fa {
+  display: inline-block;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-lg {
+  font-size: 1.33333333em;
+  line-height: .75em;
+  vertical-align: -15%;
 }
