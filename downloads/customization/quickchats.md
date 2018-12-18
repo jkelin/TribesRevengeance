@@ -112,3 +112,8 @@ Vicelord's Tribes 2 styled quickchatmenu. Instructions are included.
 ## [Warhammer 40k quickchat]({{ site.downloads_url | append: "/all/warhammer40kQC.rar" }})
 
 Grievous' and ILgaz' warhammer 40k quickchatmenu. Instructions are included.
+
+
+
+## [KmA Div's Teh Funney Voice Pack] {{ site.downloads_url | append: "/all/TehFunnay_V0.9.rar" }} 
+Star Wars, Simpsons, Many others.. Extra TV phrases etc
