@@ -8,7 +8,7 @@ author: Fireant
 categories: miscellaneous
 ---
 
-This is more of a brain dump than anything into currently ongoing investigation.
+This was more of a brain dump than anything into ongoing reverse engineering investigation.
 
 Revengeance's `Engine.dll` communicates with the following urls:
 
