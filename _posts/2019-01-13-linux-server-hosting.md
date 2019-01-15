@@ -20,9 +20,9 @@ This guide is a high level overview on hosting tribes on Linux. I will not cover
 3. Either
   - Install Tribes via Wine GUI
   - Download [ReadyToRunServer.7z]({{ site.downloads_url | append: "/all/ReadyToRunServer.7z" }}) and extract it to `/Tribes`
-4. Configure [xvfb systemd service](#Xvfb).
+4. Configure [xvfb systemd service](#xvfb).
 5. Experimentally start game server on xvfb display `DISPLAY=:1 wine /Tribes/Program/Bin/Beta_Dedicated_Server.exe`. Make sure that it works properly.
-5. Configure [game server systemd service](#Game server).
+5. Configure [game server systemd service](#game-server).
 
 ### Systemd services
 
