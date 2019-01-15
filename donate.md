@@ -6,7 +6,7 @@ layout: page
 permalink: '/donate/'
 title: Donate
 description: Donate to keep the servers running
-date: 2018-6-7
+date: 2019-01-16
 ---
 
 Vengeance is fueled by time and money, please donate to keep it going!
@@ -21,9 +21,6 @@ Material donations (server hosting) are also very welcome.
 
 ### Paypal
 **Server pool**: [Paypal](https://paypal.me/pools/c/854vHO3VL2)
-
-### Bitcoin
-**Fireant**: 15QepogzjyTopYVFJqn6VJgLxrEZsoQe7C ([history](https://blockchain.info/address/15QepogzjyTopYVFJqn6VJgLxrEZsoQe7C))
 
 
 <time style="display: block; margin-top: 50px; font-style: italic; font-weight: 300" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
