@@ -20,9 +20,9 @@ This guide is a high level overview on hosting tribes on Linux. I will not cover
 3. Either
   - Install Tribes via Wine GUI
   - Download [ReadyToRunServer.7z]({{ site.downloads_url | append: "/all/ReadyToRunServer.7z" }}) and extract it to `/Tribes`
-4. Configure (xvfb systemd service)[#Xvfb].
+4. Configure [xvfb systemd service](#Xvfb).
 5. Experimentally start game server on xvfb display `DISPLAY=:1 wine /Tribes/Program/Bin/Beta_Dedicated_Server.exe`. Make sure that it works properly.
-5. Configure (game server systemd service)[#Game server].
+5. Configure [game server systemd service](#Game server).
 
 ### Systemd services
 
@@ -74,6 +74,7 @@ WantedBy=multi-user.target
 * You can set `WINEDEBUG=-all` environment variable which disables Wine debug information. This could help with performance.
 * Make sure that you optimize settings for your system like buffer sizes and so on
 * Network connection or network card seems to be more important than CPU
+* You can configure a VNC server to show your xvfb display, you can then see game log via VNC. This does not work very well hovever.
 
 ## Useful scripts
 
