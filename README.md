@@ -19,7 +19,7 @@ Making changes or writing articles/tutorials/guides for the non-technical
 5. Await acceptance of your changes
 6. Brag about being an open source contributor
 
-[![Submiting Your First Pull Request on Github](https://img.youtube.com/vi/YTbRzhQju4c/0.jpg)](https://www.youtube.com/watch?v=YTbRzhQju4c)
+[![Submiting Your First Pull Request on GitHub](https://img.youtube.com/vi/YTbRzhQju4c/0.jpg)](https://www.youtube.com/watch?v=YTbRzhQju4c)
 
 Local setup
 -----------
