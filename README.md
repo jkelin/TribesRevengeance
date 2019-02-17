@@ -1,4 +1,4 @@
-Tribes Vengeance Resurrection site
+Tribes: Vengeance Resurrection site
 ==================================
 
 If you have an article/tutorial/guide you would like to contribute, look into [_posts](_posts) folder. Also check out [TODOs](TODO.md) for list of things that need doing.
