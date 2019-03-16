@@ -121,3 +121,7 @@ No smoke effect to increase FPS. Readme included. By BoDean.
 ## [Spinfusor effect]({{ site.downloads_url | append: "/all/TV_Spinfusor_FX.zip" }})
 
 Bodean's spinfusor effect. Readme included.
+
+## [Black trails]({{ site.downloads_url | append: "/all/Black_RocketDisc.zip" }})
+
+Black trails that look like rockets.
