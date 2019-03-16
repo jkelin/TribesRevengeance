@@ -24,7 +24,7 @@ Installs the most extended version of Tribes Vengeance. This includes a ton of m
 
 
 
-## [Tribes Vengeance Single Player Add On]({{ site.downloads_url | append: "/all/TV_SP_AddOn.exe" }})
+## [Tribes Vengeance Single Player Add On]({{ site.downloads_url | append: "/other/TV_SP_AddOn.exe" }})
 
 This installs the Single Player part of Tribes Vengeance. This Add-On is only necessary for those using an <u>older</u> build of the game. The most recent build has this included.
 
@@ -36,7 +36,7 @@ This installs the Single Player part of Tribes Vengeance. This Add-On is only ne
 
 
 
-## [Engine.dll fix]({{ site.downloads_url | append: "/all/Engine.dll" }})
+## [Engine.dll fix]({{ site.downloads_url | append: "/other/Engine.dll" }})
 
 Upgrades the old Engine.dll file. This fix is only necessary for those using an <u>older</u> build of the game and for those using an <u>out of the box copy</u>. This is included in the most recent build.
 
@@ -44,6 +44,6 @@ Upgrades the old Engine.dll file. This fix is only necessary for those using an 
 * * *
 
 
-## [Engine.dll old]({{ site.downloads_url | append: "/all/Engine_original.dll" }})
+## [Engine.dll old]({{ site.downloads_url | append: "/other/Engine_original.dll" }})
 
 Original Engine.dll kept for archaeological reasons.

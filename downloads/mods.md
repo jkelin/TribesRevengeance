@@ -18,7 +18,7 @@ For those who aren not familiar with the term "mod", here is a brief description
   
   
 
-## [Antics v3]({{ site.downloads_url | append: "/all/antics_v3.rar" }})
+## [Antics v3]({{ site.downloads_url | append: "/mods/antics_v3.rar" }})
 
 Anti cheat mod.
 
@@ -29,7 +29,7 @@ You can set the IRC channel to which it needs to report to and you can also choo
   
   
 
-## [Antics v5]({{ site.downloads_url | append: "/all/antics_v5.rar" }})
+## [Antics v5]({{ site.downloads_url | append: "/mods/antics_v5.rar" }})
 
 Anti cheat mod.
 
@@ -40,7 +40,7 @@ Disables a particular cheat. No option to set IRC channel or autoban, since it d
   
   
 
-## [AntiRape]({{ site.downloads_url | append: "/all/AntiRape.rar" }})
+## [AntiRape]({{ site.downloads_url | append: "/mods/AntiRape.rar" }})
 
 Anti baserape mod. This mod can make base assets (such as the generator or the sensor) invulnerable for damage.
 
@@ -53,7 +53,7 @@ Readme file included.
   
   
 
-## [AntiTK v1.0]({{ site.downloads_url | append: "/all/AntiTK_1.0.rar" }})
+## [AntiTK v1.0]({{ site.downloads_url | append: "/mods/AntiTK_1.0.rar" }})
 
 Anti teamkill mod.
 
@@ -66,7 +66,7 @@ Readme file included.
   
   
 
-## [ByteWeb]({{ site.downloads_url | append: "/all/ByteWeb.rar" }})
+## [ByteWeb]({{ site.downloads_url | append: "/mods/ByteWeb.rar" }})
 
 Webadmin enhancement. This mod fixes various issues, which come along with the default webadmin.
 
@@ -77,7 +77,7 @@ Furthermore it allows you to set **reserved slots** and an option to **password*
   
   
 
-## [Chocolate]({{ site.downloads_url | append: "/all/Chocolate.rar" }})
+## [Chocolate]({{ site.downloads_url | append: "/mods/Chocolate.rar" }})
 
 Gameplay enhancement mod.
 
@@ -88,7 +88,7 @@ Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
   
   
 
-## [Compmod v50]({{ site.downloads_url | append: "/all/compmodv50.zip" }})
+## [Compmod v50]({{ site.downloads_url | append: "/mods/compmodv50.zip" }})
 
 Gameplay enhancement mod.
 
@@ -99,7 +99,7 @@ Readme file included.
   
   
 
-## [Crybaby 2]({{ site.downloads_url | append: "/all/crybaby2.rar" }})
+## [Crybaby 2]({{ site.downloads_url | append: "/mods/crybaby2.rar" }})
 
 Gameplay enhancement mod.
 
@@ -112,7 +112,7 @@ Readme file included.
   
   
 
-## [Crybaby 3]({{ site.downloads_url | append: "/all/crybaby3.rar" }})
+## [Crybaby 3]({{ site.downloads_url | append: "/mods/crybaby3.rar" }})
 
 Gameplay enhancement mod.
 
@@ -125,7 +125,7 @@ Readme file included.
   
   
 
-## [Degrapple]({{ site.downloads_url | append: "/all/degrapple.rar" }})
+## [Degrapple]({{ site.downloads_url | append: "/mods/degrapple.rar" }})
 
 Gameplay enhancement mod.
 
@@ -136,7 +136,7 @@ This mod fixes the big issue, where the grappling hook could not be destroyed. T
   
   
 
-## [Failboat]({{ site.downloads_url | append: "/all/failboat.rar" }})
+## [Failboat]({{ site.downloads_url | append: "/mods/failboat.rar" }})
 
 Gameplay enhancement mod.
 
@@ -149,7 +149,7 @@ Readme file included.
   
   
 
-## [GrappleBall]({{ site.downloads_url | append: "/all/GrappleBall.rar" }})
+## [GrappleBall]({{ site.downloads_url | append: "/mods/GrappleBall.rar" }})
 
 Gameplay enhancement mod.
 
@@ -162,7 +162,7 @@ Readme file included.
   
   
 
-## [Lords]({{ site.downloads_url | append: "/all/lords.zip" }})
+## [Lords]({{ site.downloads_url | append: "/Customization/Unsorted/lords.zip" }})
 
 Gameplay enhancement mod.
 
@@ -175,7 +175,7 @@ Readme file included.
   
   
 
-## [NetCamera]({{ site.downloads_url | append: "/all/NetCamera4.rar" }})
+## [NetCamera]({{ site.downloads_url | append: "/mods/NetCamera4.rar" }})
 
 Spectator enhancement mod.
 
@@ -184,7 +184,7 @@ Spectator enhancement mod.
   
   
 
-## [NoVehicles]({{ site.downloads_url | append: "/all/NoVehicles_1.1.rar" }})
+## [NoVehicles]({{ site.downloads_url | append: "/mods/NoVehicles_1.1.rar" }})
 
 Gameplay enhancement mod.
 
@@ -197,7 +197,7 @@ Readme file included.
   
   
 
-## [NRBGone]({{ site.downloads_url | append: "/all/NRBGone_B1.rar" }})
+## [NRBGone]({{ site.downloads_url | append: "/mods/NRBGone_B1.rar" }})
 
 Gameplay enhancement mod.
 
@@ -208,7 +208,7 @@ Installation instructions: \>Extract the files to your `...\VUGames\Tribes Venge
   
   
 
-## [PingControl]({{ site.downloads_url | append: "/all/PingControl.rar" }})
+## [PingControl]({{ site.downloads_url | append: "/mods/PingControl.rar" }})
 
 Gameplay enhancement mod.
 
@@ -221,7 +221,7 @@ Readme file included.
   
   
 
-## [Player Name Cleaner]({{ site.downloads_url | append: "/all/PlayerNameCleaner.rar" }})
+## [Player Name Cleaner]({{ site.downloads_url | append: "/mods/PlayerNameCleaner.rar" }})
 
 Gameplay enhancement mod.
 
@@ -234,7 +234,7 @@ Readme file included.
   
   
 
-## [Promod v1rc3]({{ site.downloads_url | append: "/all/promod_v1rc3.zip" }})
+## [Promod v1rc3]({{ site.downloads_url | append: "/mods/promod_v1rc3.zip" }})
 
 Gameplay enhancement mod.
 
@@ -245,7 +245,7 @@ This mod does many things. A few examples: you can set chaingun damage, pods dam
   
   
 
-## [Promod v1rc4]({{ site.downloads_url | append: "/all/promod_v1rc4.rar" }})
+## [Promod v1rc4]({{ site.downloads_url | append: "/mods/promod_v1rc4.rar" }})
 
 Gameplay enhancement mod.
 
@@ -256,7 +256,7 @@ Upgrade of the previous promod. Only contains the .u file, so it can not be used
   
   
 
-## [Promod v1rc5]({{ site.downloads_url | append: "/all/promod_v1rc5.rar" }})
+## [Promod v1rc5]({{ site.downloads_url | append: "/mods/promod_v1rc5.rar" }})
 
 Gameplay enhancement mod.
 
@@ -267,7 +267,7 @@ Upgrade of the previous promod. Only contains the .u file, so it can not be used
   
   
 
-## [Promod v1rc6]({{ site.downloads_url | append: "/all/promod_v1rc6.rar" }})
+## [Promod v1rc6]({{ site.downloads_url | append: "/mods/promod_v1rc6.rar" }})
 
 Gameplay enhancement mod.
 
@@ -278,7 +278,7 @@ Upgrade of the previous promod.
   
   
 
-## [Rypelcam]({{ site.downloads_url | append: "/all/RypelCam.rar" }})
+## [Rypelcam]({{ site.downloads_url | append: "/mods/RypelCam.rar" }})
 
 Spectator mod.
 
@@ -289,7 +289,7 @@ This mod allows you to "fly around freely" in a recorded demo and by doing this,
   
   
 
-## [ServerLogoTVa]({{ site.downloads_url | append: "/all/ServerLogoTVa.rar" }})
+## [ServerLogoTVa]({{ site.downloads_url | append: "/mods/ServerLogoTVa.rar" }})
 
 Server management mod.
 
@@ -315,7 +315,7 @@ s
   
   
 
-## [Specmod]({{ site.downloads_url | append: "/all/SpecMod.rar" }})
+## [Specmod]({{ site.downloads_url | append: "/mods/SpecMod.rar" }})
 
 Spectator enhancement mod.
 
@@ -328,7 +328,7 @@ Readme file included.
   
   
 
-## [tvbp\_b7]({{ site.downloads_url | append: "/all/tvbp_b7.rar" }})
+## [tvbp\_b7]({{ site.downloads_url | append: "/mods/tvbp_b7.rar" }})
 
 Gameplay enhancement mod.
 
@@ -341,7 +341,7 @@ Readme file included.
   
   
 
-## [UCModv3]({{ site.downloads_url | append: "/all/ucmodv3.rar" }})
+## [UCModv3]({{ site.downloads_url | append: "/mods/ucmodv3.rar" }})
 
 Gameplay enhancement mod.
 
@@ -354,7 +354,7 @@ Readme file included.
   
   
 
-## [Vanilla b1]({{ site.downloads_url | append: "/all/vanilla_b1.rar" }})
+## [Vanilla b1]({{ site.downloads_url | append: "/mods/vanilla_b1.rar" }})
 
 Gameplay enhancement mod.
 
@@ -365,7 +365,7 @@ This mod allows you to enable degrapple, to disable vehicles, to reduce grappler
   
   
 
-## [Vanilla b2]({{ site.downloads_url | append: "/all/vanilla_b2.rar" }})
+## [Vanilla b2]({{ site.downloads_url | append: "/mods/vanilla_b2.rar" }})
 
 Gameplay enhancement mod.
 
@@ -376,7 +376,7 @@ This mod has the same features as the b1 version, but comes with code improvemen
   
   
 
-## [Vanilla b3]({{ site.downloads_url | append: "/all/vanilla_b3.rar" }})
+## [Vanilla b3]({{ site.downloads_url | append: "/mods/vanilla_b3.rar" }})
 
 Gameplay enhancement mod.
 
@@ -389,7 +389,7 @@ Readme file included.
   
   
 
-## [X2 v1]({{ site.downloads_url | append: "/all/x2_v1.rar" }})
+## [X2 v1]({{ site.downloads_url | append: "/mods/x2_v1.rar" }})
 
 Gameplay enhancement mod.
 
@@ -402,7 +402,7 @@ Readme file included.
   
   
 
-## [X2 v3rc6]({{ site.downloads_url | append: "/all/x2_v3rc6.rar" }})
+## [X2 v3rc6]({{ site.downloads_url | append: "/mods/x2_v3rc6.rar" }})
 
 Gameplay enhancement mod.
 
@@ -413,7 +413,7 @@ This mod allows you to tweak many weapons, projectiles and vehicles. Furthermore
   
   
 
-## [X2 v3wf]({{ site.downloads_url | append: "/all/x2_v3wf.rar" }})
+## [X2 v3wf]({{ site.downloads_url | append: "/mods/x2_v3wf.rar" }})
 
 Gameplay enhancement mod.
 
@@ -426,7 +426,7 @@ Readme file included.
   
   
 
-## [X2 Mutator]({{ site.downloads_url | append: "/all/x2mutator.rar" }})
+## [X2 Mutator]({{ site.downloads_url | append: "/mods/x2mutator.rar" }})
 
 Gameplay enhancement mod.
 

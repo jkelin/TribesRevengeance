@@ -11,48 +11,48 @@ On this page you will find all available sound effects for Tribes Vengeance. Cli
   
   
 
-## [Tribes Vengeance Sound Remix Alpha]({{ site.downloads_url | append: "/all/SoundEffects_remix.rar" }})
+## [Tribes Vengeance Sound Remix Alpha]({{ site.downloads_url | append: "/Customization/Sounds/SoundEffects_remix.rar" }})
 
 Readme file included.
 
   
   
 
-## [Tribes 1 pack]({{ site.downloads_url | append: "/all/t1_pack.zip" }})
+## [Tribes 1 pack]({{ site.downloads_url | append: "/Customization/Sounds/t1_pack.zip" }})
 
 Readme file included.
 
   
   
 
-## [Tribes 2 weapon sounds]({{ site.downloads_url | append: "/all/T2WepSounds4TV.rar" }})
+## [Tribes 2 weapon sounds]({{ site.downloads_url | append: "/Customization/Sounds/T2WepSounds4TV.rar" }})
 
 Readme file included.
 
   
   
 
-## [Alternate flag sounds]({{ site.downloads_url | append: "/all/TV_Alternate_Flag_Sounds.rar" }})
+## [Alternate flag sounds]({{ site.downloads_url | append: "/Customization/Sounds/TV_Alternate_Flag_Sounds.rar" }})
 
 Readme file included.
 
   
   
 
-## [Zero\_FX's Rover Sounds]({{ site.downloads_url | append: "/all/Zero_Rover_Sounds.zip" }})
+## [Zero\_FX's Rover Sounds]({{ site.downloads_url | append: "/Customization/Sounds/Zero_Rover_Sounds.zip" }})
 
 Readme file included.
 
   
   
 
-## [Zero\_FX's Weapon Sounds 1.0]({{ site.downloads_url | append: "/all/Zero_Weapons1.0.zip" }})
+## [Zero\_FX's Weapon Sounds 1.0]({{ site.downloads_url | append: "/Customization/Sounds/Zero_Weapons1.0.zip" }})
 
 Readme file included.
 
   
   
 
-## [Zero\_FX's Weapon Sounds 2.0]({{ site.downloads_url | append: "/all/Zero_Weapon_Sounds2.0.zip" }})
+## [Zero\_FX's Weapon Sounds 2.0]({{ site.downloads_url | append: "/Customization/Sounds/Zero_Weapon_Sounds2.0.zip" }})
 
 Readme file included.

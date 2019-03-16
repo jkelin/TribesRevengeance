@@ -12,7 +12,7 @@ categories: serverhosting
 
 * * *
 
-This guide will help you through the simple steps of setting up a basic Tribes: Vengeance server. For this you will need the **[Tribes Vengeance Beta Server.exe]({{ site.downloads_url | append: "/all/tribesv_beta_dserver.exe" }})** application.
+This guide will help you through the simple steps of setting up a basic Tribes: Vengeance server. For this you will need the **[Tribes Vengeance Beta Server.exe]({{ site.downloads_url | append: "/other/tribesv_beta_dserver.exe" }})** application.
 
 Only the basics will be covered here. For more information on how to add mods or tweak the settings, visit our **Server configuration** guide (coming soon) or our **how to add mods** guide (coming soon).
 

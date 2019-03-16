@@ -572,7 +572,7 @@ This completes the Tribes Vengeance Server ini configuration for auto download r
 
 Byte made modifications to the webadmin to make most of the intended functionality of it work correctly. Most importantly, with Byte's WebAdmin you can create a custom map rotation and password the server without restarting it. To install and configure Byte's webadmin follow these steps.
 
-1. Download the webadmin from byte.zenegg.com from [ByteWeb_1.32.rar]({{ site.downloads_url | append: "/all/ByteWeb_1.32.rar" }})
+1. Download the webadmin from byte.zenegg.com from [ByteWeb_1.32.rar]({{ site.downloads_url | append: "/mods/ByteWeb_1.32.rar" }})
 
 2. Unzip the file.
 
@@ -625,7 +625,7 @@ The maps that are auto downloaded from your new website are copied into clients 
 
 - The T:V cache manager can be found here
 
-[TVCacheManager.zip]({{ site.downloads_url | append: "/all/TVCacheManager.zip" }})
+[TVCacheManager.zip]({{ site.downloads_url | append: "/other/TVCacheManager.zip" }})
 
 - Install and start the program
 
