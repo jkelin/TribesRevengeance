@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: TribesRevengeance
 email: me@fireant.pw
-# url: http://tribesrevengeance.net
+url: https://tribesrevengeance.net
 description: >- # this means to ignore newlines until "baseurl:"
   Tribes Vengeance resurrection site. Information, downloads, guides, tutorials and links.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -40,7 +40,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 plugins:
-
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
