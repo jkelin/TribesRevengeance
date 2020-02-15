@@ -14,6 +14,10 @@ Welcome to TribesRevengeance! In here, you will find all possible Tribes: Vengea
   <span>Download Tribes: Vengeance</span>
 </a>
 
+<a href="https://stats.tribesrevengeance.net/extension"  class="button is-link is-large is-outlined is-fullwidth" rel="nofollow"  >
+  <span>Download Browser Extension to See Who's On Right Now</span>
+</a>
+
 [Alternative Revengeance downloads and singleplayer addon]({{ "/downloads/revengeance/" | relative_url }})
 
 ### New to Tribes: Vengeance?
