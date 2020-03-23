@@ -26,4 +26,5 @@ Local setup
 1. Install ruby, make sure you have `gem` in PATH
 2. Install jekyll and bundler `gem install jekyll bundler`
 3. `cd` into site's folder
-4. Start local server with `jekyll serve`, navigate to [http://localhost:4000](http://localhost:4000)
+4. Run `bundler` to install dependecies
+5. Start local server with `bundle exec jekyll serve`, navigate to [http://localhost:4000](http://localhost:4000)
