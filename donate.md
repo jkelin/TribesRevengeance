@@ -13,9 +13,8 @@ Vengeance is fueled by time and money, please donate to keep it going!
 
 Current expenses:
 * Public game servers hosted by *Cake*
-* Stats hosting on a VPS run by *Fireant*
-* Downloads and forum hosting by *Fireant* - prepaid to 2019-12-30
-* TribesReVengeance.net domain by *Fireant* - prepaid to 2018-12-24
+* Stats and downloads run by *Fireant*
+* TribesReVengeance.net domain by *Fireant* - prepaid to 2020-12-24
 
 Material donations (server hosting) are also very welcome.
 
