@@ -15,14 +15,18 @@ This guide is a high level overview on hosting tribes on Linux. I will not cover
 ## Setup
 
 1. Install prerequisites: `wine`, `p7zip-full`, `xvfb`
-  - `sudo apt install -y wine p7zip-full xvfb`
+
+- `sudo apt install -y wine p7zip-full xvfb`
+
 2. Create Tribes installation folder, I will use `/Tribes`
 3. Either
-  - Install Tribes via Wine GUI
-  - Download [ReadyToRunServer.7z]({{ site.downloads_url | append: "/other/ReadyToRunServer.7z" }}) and extract it to `/Tribes`
+
+- Install Tribes via Wine GUI
+- Download [ReadyToRunServer.7z]({{ site.downloads_url | append: "/other/ReadyToRunServer.7z" }}) and extract it to `/Tribes`
+
 4. Configure [xvfb systemd service](#xvfb).
 5. Experimentally start game server on xvfb display `DISPLAY=:1 wine /Tribes/Program/Bin/Beta_Dedicated_Server.exe`. Make sure that it works properly.
-5. Configure [game server systemd service](#game-server).
+6. Configure [game server systemd service](#game-server).
 
 ### Systemd services
 
@@ -36,6 +40,7 @@ Systemd is a Linux equivalent to Windows services. Systemd service can be starte
 6. `sudo systemctl enable xvfb` Enables xvfb service to autostart
 
 #### Xvfb
+
 ```
 [Unit]
 Description=X Virtual Frame Buffer Service
@@ -49,6 +54,7 @@ WantedBy=multi-user.target
 ```
 
 #### Game server
+
 ```
 [Unit]
 Description=Tribes Vengeance Main server
@@ -69,16 +75,18 @@ WantedBy=multi-user.target
 
 ## Tips
 
-* You can use low-latency kernel
-* Set Wine process to be high priority. You can also use path your kernel with a deadline scheduler and use deadline priority
-* You can set `WINEDEBUG=-all` environment variable which disables Wine debug information. This could help with performance.
-* Make sure that you optimize settings for your system like buffer sizes and so on
-* Network connection or network card seems to be more important than CPU
-* You can configure a VNC server to show your xvfb display, you can then see game log via VNC. This does not work very well hovever.
+- You can use low-latency kernel
+- You can use `tuned-adm profile network-latency` to tune for low network latency (at the cost of power consumption)
+- Set Wine process to be high priority. You can also use path your kernel with a deadline scheduler and use deadline priority
+- You can set `WINEDEBUG=-all` environment variable which disables Wine debug information. This could help with performance.
+- Make sure that you optimize settings for your system like buffer sizes and so on
+- Network connection or network card seems to be more important than CPU
+- You can configure a VNC server to show your xvfb display, you can then see game log via VNC. This does not work very well hovever.
 
 ## Useful scripts
 
 ### main.sh
+
 ```
 #!/bin/bash
 
@@ -89,11 +97,14 @@ mutator=antics_v5.antics,promod_v1rc7_b3.promod
 
 CONFIG_PATH=/Tribes/Program/Config/$name.ini node /Tribes/Program/Scripts/shuffleMaps.js
 
+export WINEDEBUG=-all
+
 cd ../Bin
-WINEDEBUG=-all wine Beta_Dedicated_Server.exe "${map}?game=${mode}?maxplayers=32?mutator=$mutator" -server "ini=../Config/${name}.ini" "log=../Logs/${name}_$(date +%Y-%m-%d_%H:%M:%S).log"
+wine Beta_Dedicated_Server.exe "${map}?game=${mode}?maxplayers=32?mutator=$mutator" -server "ini=../Config/${name}.ini" "log=../Logs/${name}_$(date +%Y-%m-%d_%H:%M:%S).log"
 ```
 
 ### shuffleMaps.js
+
 NodeJs utility that shuffles maps in TV config.ini. On our server it runs every midnight via CRON.
 
 ```
@@ -136,15 +147,15 @@ fs.writeFileSync(filePath, lines.join('\r\n'));
 ```
 
 ### updatePriorities.sh
-This sets proper priorities to the server process. We run it every second via CRON. You need to have `schedtool` utility that can set deadline schedule to a process.
+
+This sets proper priorities to the server process. We run it every second via CRON. You need to have `sysctl` utility that can set processor affinity and a `chrt` utility for deadline scheduling.
 
 ```
 #!/bin/bash
 
 id=$(pgrep -f 'Beta_Dedicated_Server')
 
-#taskset -cp 3 $id
-renice -20 -p $id
-chrt -f -p 99 $id
-/Tribes/Program/Scripts/schedtool -E -t 100000000:1000000 $id
+sysctl -w kernel.sched_rt_runtime_us=-1
+taskset -pca 0 $id
+chrt --deadline --sched-period 1000000 --pid 0 "$id"
 ```
