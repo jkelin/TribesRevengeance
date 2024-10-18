@@ -8,7 +8,7 @@ permalink: /downloads/maps/
 
 On this page you will find all available maps for Tribes Vengeance. Click on the name of the given map (pack) to start downloading. Be sure to read the given description and/or the accompanied readme file. If you are in need of assistance, please [Contact Us]({{ "/contact/" | relative_url }}).
 
-## [Anzec Day Map Pack]({{ site.downloads_url | append: "/mappacks/AD_Map_Pack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/AD_Map_Pack.exe" }}' target='_blank' rel="nofollow" download='AD_Map_Pack.exe'>Anzec Day Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -33,7 +33,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-Surreal
 - MP-TheGap
 
-## [BEML Season 1 Map Pack]({{ site.downloads_url | append: "/mappacks/BEMLTVS1Pack.zip" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEMLTVS1Pack.zip" }}' target='_blank' rel="nofollow" download='BEMLTVS1Pack.zip'>BEML Season 1 Map Pack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
@@ -47,7 +47,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 - MP-Utopia_NoTerritory
 - MP-Verdant
 
-## [BEML Season 2 Map Pack 1]({{ site.downloads_url | append: "/mappacks/BEML_MP1_Season2.zip" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_MP1_Season2.zip" }}' target='_blank' rel="nofollow" download='BEML_MP1_Season2.zip'>BEML Season 2 Map Pack 1</a>
 
 First of the two Season 2 Map Packs. Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -69,7 +69,7 @@ First of the two Season 2 Map Packs. Extract the zip file to your `...\VUGames\T
 - MP-BEML-Stormdance
 - MP-BEML-Verdant
 
-## [BEML Season 2 Map Pack 1]({{ site.downloads_url | append: "/mappacks/BEML_MP1_Season2.zip" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_MP1_Season2.zip" }}' target='_blank' rel="nofollow" download='BEML_MP1_Season2.zip'>BEML Season 2 Map Pack 1</a>
 
 Second of the two Season 2 Map Packs. Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -92,7 +92,7 @@ Second of the two Season 2 Map Packs. Extract the zip file to your `...\VUGames\
 - MP-BEML-Tropics
 - MP-BEML-WinterLake
 
-## [BEML Season 3 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML_Season3_MapPack.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season3_MapPack.rar" }}' target='_blank' rel="nofollow" download='BEML_Season3_MapPack.rar'>BEML Season 3 Map Pack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
@@ -108,7 +108,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 - MP-Katabatic
 - MP-VM-Authority
 
-## [BEML Season 4 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML_Season4_MapPack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season4_MapPack.exe" }}' target='_blank' rel="nofollow" download='BEML_Season4_MapPack.exe'>BEML Season 4 Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -147,7 +147,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-BEML4-Verdant
 - MP-BEML4-Winterlake
 
-## [BEML Season 5 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML_Season5_MapPack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season5_MapPack.exe" }}' target='_blank' rel="nofollow" download='BEML_Season5_MapPack.exe'>BEML Season 5 Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -161,7 +161,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-BEML5-Silvergun
 - MP-BEML5-Steppt
 
-## [BEML Season 6 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML_Season6_MapPack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season6_MapPack.exe" }}' target='_blank' rel="nofollow" download='BEML_Season6_MapPack.exe'>BEML Season 6 Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -186,7 +186,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-Todash Raceway v03 fps
 - MP-VM-Sabbath
 
-## [BEML Season 6 Map Pack Fix]({{ site.downloads_url | append: "/mappacks/BEML_Season6_MapPack_fix.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season6_MapPack_fix.exe" }}' target='_blank' rel="nofollow" download='BEML_Season6_MapPack_fix.exe'>BEML Season 6 Map Pack Fix</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -197,7 +197,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-BEML6-Baroness_fix
 - MP-BEML6-Danube_fix
 
-## [BEML Season 7 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML_Season7_MapPack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season7_MapPack.exe" }}' target='_blank' rel="nofollow" download='BEML_Season7_MapPack.exe'>BEML Season 7 Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -215,7 +215,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-BEML7-SpiridianGenRemix
 - MP-BEML7-Stonehenge
 
-## [BEML Season 8 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML_Season8_MapPack.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML_Season8_MapPack.rar" }}' target='_blank' rel="nofollow" download='BEML_Season8_MapPack.rar'>BEML Season 8 Map Pack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -230,13 +230,13 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Read
 - MP-BEML8-Simoom
 - MP-BEML8-Tangent
 
-## [BEML Season 4 to 8 Map Pack]({{ site.downloads_url | append: "/mappacks/BEML4_8.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BEML4_8.exe" }}' target='_blank' rel="nofollow" download='BEML4_8.exe'>BEML Season 4 to 8 Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
 **NOTE:** This map pack contains all the maps (including fixes) that can be found in the BEML Season Map Packs 4 to 8. Downloading and installing this is much easier then downloading and installing all of them seperately.
 
-## [BotMaps]({{ site.downloads_url | append: "/mappacks/BotMaps.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BotMaps.rar" }}' target='_blank' rel="nofollow" download='BotMaps.rar'>BotMaps</a>
 
 Extract the file to your `...\VUGames\Tribes Vengeance\` folder.
 
@@ -247,7 +247,7 @@ Extract the file to your `...\VUGames\Tribes Vengeance\` folder.
 - MP-FortBots_V5
 - MP-TropicsBots_V1
 
-## [Boxing Day Map Pack]({{ site.downloads_url | append: "/mappacks/BD_Map_Pack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/BD_Map_Pack.exe" }}' target='_blank' rel="nofollow" download='BD_Map_Pack.exe'>Boxing Day Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -268,7 +268,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-Surreal
 - MP-Unparalleld
 
-## [Greenscreen Maps]({{ site.downloads_url | append: "/mappacks/GreenscreenMaps.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/GreenscreenMaps.rar" }}' target='_blank' rel="nofollow" download='GreenscreenMaps.rar'>Greenscreen Maps</a>
 
 Contains two maps, used when creating an advanced T:V video.
 
@@ -279,7 +279,7 @@ Extract to your `...\VUGames\Tribes Vengeance\Content\Maps` folder.
 - MP-ChromaCubeImp
 - MP-ChromaCubeMOJO
 
-## [Miscellaneous Map Pack]({{ site.downloads_url | append: "/mappacks/MiscMapPack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/MiscMapPack.exe" }}' target='_blank' rel="nofollow" download='MiscMapPack.exe'>Miscellaneous Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -353,11 +353,11 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-XtremeSki3FINAL
 - MP-Yulilax
 
-## [REV2 map pack]({{ site.downloads_url | append: "/mappacks/REV2.7z" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/REV2.7z" }}' target='_blank' rel="nofollow" download='REV2.7z'>REV2 map pack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
-## [SmOkking Joe Map Pack]({{ site.downloads_url | append: "/mappacks/sj_map_pack.zip" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/sj_map_pack.zip" }}' target='_blank' rel="nofollow" download='sj_map_pack.zip'>SmOkking Joe Map Pack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -368,7 +368,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Read
 - MP-Frostbite
 - MP-TheGap
 
-## [The Inner Sanctum Map Pack 1]({{ site.downloads_url | append: "/mappacks/TIS_MP.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TIS_MP.rar" }}' target='_blank' rel="nofollow" download='TIS_MP.rar'>The Inner Sanctum Map Pack 1</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
@@ -384,7 +384,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 - MP-TIS-Transit
 - MP-TIS-Tribeca
 
-## [The Inner Sanctum Map Pack 2]({{ site.downloads_url | append: "/mappacks/TIS2_MP.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TIS2_MP.rar" }}' target='_blank' rel="nofollow" download='TIS2_MP.rar'>The Inner Sanctum Map Pack 2</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
@@ -409,7 +409,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 - MP-TIS2-Saphire
 - MP-TIS2-SnoBind
 
-## [The Inner Sanctum Map Pack 2 Fix]({{ site.downloads_url | append: "/mappacks/TIS2_Mapfixes.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TIS2_Mapfixes.rar" }}' target='_blank' rel="nofollow" download='TIS2_Mapfixes.rar'>The Inner Sanctum Map Pack 2 Fix</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
@@ -422,7 +422,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 - MP-TIS2-Creda
 - MP-TIS2-Ruins
 
-## [The Inner Sanctum Map Pack 3 Part 1]({{ site.downloads_url | append: "/mappacks/TIS3MP_Part1Final.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TIS3MP_Part1Final.exe" }}' target='_blank' rel="nofollow" download='TIS3MP_Part1Final.exe'>The Inner Sanctum Map Pack 3 Part 1</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 
@@ -435,7 +435,7 @@ Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder 
 - MP-TIS3-Frostbyte
 - MP-TIS3-RR07
 
-## [TVRL Map Pack 1]({{ site.downloads_url | append: "/mappacks/TVRL_MP1.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TVRL_MP1.rar" }}' target='_blank' rel="nofollow" download='TVRL_MP1.rar'>TVRL Map Pack 1</a>
 
 First of two parts of the first TVRL Map Pack. Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder.
 
@@ -448,7 +448,7 @@ First of two parts of the first TVRL Map Pack. Extract the zip file to your `...
 - MP-TVRL-Rush
 - MP-TVRL-Saphire
 
-## [TVRL Map Pack 1 Fix]({{ site.downloads_url | append: "/mappacks/TVRL_MP1_fix.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TVRL_MP1_fix.rar" }}' target='_blank' rel="nofollow" download='TVRL_MP1_fix.rar'>TVRL Map Pack 1 Fix</a>
 
 Second of the two parts of the first TVRL Map Pack. Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -460,7 +460,7 @@ Second of the two parts of the first TVRL Map Pack. Extract the zip file to your
 - MP-TVRL-Splinter
 - MP-TVRL-Volcanoed
 
-## [TVRL Map Pack 2]({{ site.downloads_url | append: "/mappacks/TVRL2_MP.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TVRL2_MP.rar" }}' target='_blank' rel="nofollow" download='TVRL2_MP.rar'>TVRL Map Pack 2</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -479,7 +479,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Read
 - MP-TVRL2-Serrated
 - MP-TVRL2-SpeXtrum
 
-## [TVRL Map Pack 3]({{ site.downloads_url | append: "/mappacks/TVRL3_MP.rar" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TVRL3_MP.rar" }}' target='_blank' rel="nofollow" download='TVRL3_MP.rar'>TVRL Map Pack 3</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -494,7 +494,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Read
 - MP-TVRL3-Strait
 - MP-TVRL3-Tourettes
 
-## [ViFoxe BEML RabbitPack]({{ site.downloads_url | append: "/mappacks/ViFoxe_BEML_RabbitPack.zip" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/ViFoxe_BEML_RabbitPack.zip" }}' target='_blank' rel="nofollow" download='ViFoxe_BEML_RabbitPack.zip'>ViFoxe BEML RabbitPack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Readme file included.
 
@@ -505,7 +505,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance\Content` folder. Read
 - MP-BEML-Folly
 - MP-BEML-Impact
 
-## [VM Map Pack]({{ site.downloads_url | append: "/mappacks/VMMapPack.zip" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/VMMapPack.zip" }}' target='_blank' rel="nofollow" download='VMMapPack.zip'>VM Map Pack</a>
 
 Extract the zip file to your `...\VUGames\Tribes Vengeance` folder. Readme file included.
 
@@ -541,7 +541,7 @@ Extract the zip file to your `...\VUGames\Tribes Vengeance` folder. Readme file 
 - MP-VM-Verdant
 - MP-VM-WinterLake
 
-## [X2 Bonus Map Pack]({{ site.downloads_url | append: "/mappacks/TV_x2_bonus_pack.exe" }})
+## <a href='{{ site.downloads_url | append: "/mappacks/TV_x2_bonus_pack.exe" }}' target='_blank' rel="nofollow" download='TV_x2_bonus_pack.exe'>X2 Bonus Map Pack</a>
 
 Run the executable file. Link it to your `...\VUGames\Tribes Vengeance\` folder and press OK to start installing the maps.
 

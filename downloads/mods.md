@@ -10,15 +10,9 @@ On this page you will find all available mods for Tribes Vengeance. Click on the
 
 On this page, only basic descriptions will be given. Instructions will explain how to install it as a client. If you want a certain modification to run on a server, more needs to be done, and that is explained in our tutorial that will come shortly! If you are in need of (more) assistance, please [Contact Us]({{ "/contact" | relative_url  }}).
 
-  
-
 For those who aren not familiar with the term "mod", here is a brief description: " **A mod or modification is the alteration of the program code of a video game in order to make it operate in a manner different to its original version.**"
 
-  
-  
-  
-
-## [Antics v3]({{ site.downloads_url | append: "/mods/antics_v3.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/antics_v3.rar" }}' target='_blank' rel="nofollow" download='antics_v3.rar'>Antics v3</a>
 
 Anti cheat mod.
 
@@ -26,10 +20,7 @@ You can set the IRC channel to which it needs to report to and you can also choo
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Antics v5]({{ site.downloads_url | append: "/mods/antics_v5.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/antics_v5.rar" }}' target='_blank' rel="nofollow" download='antics_v5.rar'>Antics v5</a>
 
 Anti cheat mod.
 
@@ -37,10 +28,7 @@ Disables a particular cheat. No option to set IRC channel or autoban, since it d
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [AntiRape]({{ site.downloads_url | append: "/mods/AntiRape.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/AntiRape.rar" }}' target='_blank' rel="nofollow" download='AntiRape.rar'>AntiRape</a>
 
 Anti baserape mod. This mod can make base assets (such as the generator or the sensor) invulnerable for damage.
 
@@ -50,10 +38,7 @@ You can set the minimum required amount of players, before base rape gets enable
 
 Readme file included.
 
-  
-  
-
-## [AntiTK v1.0]({{ site.downloads_url | append: "/mods/AntiTK_1.0.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/AntiTK_1.0.rar" }}' target='_blank' rel="nofollow" download='AntiTK_1.0.rar'>AntiTK v1.0</a>
 
 Anti teamkill mod.
 
@@ -63,10 +48,7 @@ This mod removes players, based on their score. It can be adjusted whether peopl
 
 Readme file included.
 
-  
-  
-
-## [ByteWeb]({{ site.downloads_url | append: "/mods/ByteWeb.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/ByteWeb.rar" }}' target='_blank' rel="nofollow" download='ByteWeb.rar'>ByteWeb</a>
 
 Webadmin enhancement. This mod fixes various issues, which come along with the default webadmin.
 
@@ -74,10 +56,7 @@ Furthermore it allows you to set **reserved slots** and an option to **password*
 
 **Installation instructions:** read the included readmle file. Online guide coming soon!
 
-  
-  
-
-## [Chocolate]({{ site.downloads_url | append: "/mods/Chocolate.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/Chocolate.rar" }}' target='_blank' rel="nofollow" download='Chocolate.rar'>Chocolate</a>
 
 Gameplay enhancement mod.
 
@@ -85,10 +64,7 @@ This mod allows you to set the amount of ammo the grappler has, to choose whethe
 
 Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Compmod v50]({{ site.downloads_url | append: "/mods/compmodv50.zip" }})
+## <a href='{{ site.downloads_url | append: "/mods/compmodv50.zip" }}' target='_blank' rel="nofollow" download='compmodv50.zip'>Compmod v50</a>
 
 Gameplay enhancement mod.
 
@@ -96,10 +72,7 @@ Gameplay enhancement mod.
 
 Readme file included.
 
-  
-  
-
-## [Crybaby 2]({{ site.downloads_url | append: "/mods/crybaby2.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/crybaby2.rar" }}' target='_blank' rel="nofollow" download='crybaby2.rar'>Crybaby 2</a>
 
 Gameplay enhancement mod.
 
@@ -109,10 +82,7 @@ This mod does a number of things: it increases disc speed, it makes you spawn as
 
 Readme file included.
 
-  
-  
-
-## [Crybaby 3]({{ site.downloads_url | append: "/mods/crybaby3.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/crybaby3.rar" }}' target='_blank' rel="nofollow" download='crybaby3.rar'>Crybaby 3</a>
 
 Gameplay enhancement mod.
 
@@ -122,10 +92,7 @@ This mod does the same as **crybaby2**, plus a few extra things, like making bur
 
 Readme file included.
 
-  
-  
-
-## [Degrapple]({{ site.downloads_url | append: "/mods/degrapple.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/degrapple.rar" }}' target='_blank' rel="nofollow" download='degrapple.rar'>Degrapple</a>
 
 Gameplay enhancement mod.
 
@@ -133,10 +100,7 @@ This mod fixes the big issue, where the grappling hook could not be destroyed. T
 
 **Installation instructions:** Extract the .u file to your **..\VUGames\Tribes Vengeance\ Program\Bin** folder. Extract the Classes map to your **..\VUGames\Tribes Vengeance\ Content** folder.
 
-  
-  
-
-## [Failboat]({{ site.downloads_url | append: "/mods/failboat.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/failboat.rar" }}' target='_blank' rel="nofollow" download='failboat.rar'>Failboat</a>
 
 Gameplay enhancement mod.
 
@@ -146,10 +110,7 @@ This mod is very similar to Crybaby: it increases disc speed, reduces shield pac
 
 Readme file included.
 
-  
-  
-
-## [GrappleBall]({{ site.downloads_url | append: "/mods/GrappleBall.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/GrappleBall.rar" }}' target='_blank' rel="nofollow" download='GrappleBall.rar'>GrappleBall</a>
 
 Gameplay enhancement mod.
 
@@ -159,10 +120,7 @@ This mod adds a special gameclass called **GrappleBall**. The goal here, is to g
 
 Readme file included.
 
-  
-  
-
-## [Lords]({{ site.downloads_url | append: "/Customization/Unsorted/lords.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/Unsorted/lords.zip" }}' target='_blank' rel="nofollow" download='lords.zip'>Lords</a>
 
 Gameplay enhancement mod.
 
@@ -172,19 +130,13 @@ This mod pushes things to the extreme: it grants unlimited flight time from pack
 
 Readme file included.
 
-  
-  
-
-## [NetCamera]({{ site.downloads_url | append: "/mods/NetCamera4.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/NetCamera4.rar" }}' target='_blank' rel="nofollow" download='NetCamera4.rar'>NetCamera</a>
 
 Spectator enhancement mod.
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [NoVehicles]({{ site.downloads_url | append: "/mods/NoVehicles_1.1.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/NoVehicles_1.1.rar" }}' target='_blank' rel="nofollow" download='NoVehicles_1.1.rar'>NoVehicles</a>
 
 Gameplay enhancement mod.
 
@@ -194,10 +146,7 @@ This mod makes it possible to disable vehicles. In the included .ini file, you c
 
 Readme file included.
 
-  
-  
-
-## [NRBGone]({{ site.downloads_url | append: "/mods/NRBGone_B1.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/NRBGone_B1.rar" }}' target='_blank' rel="nofollow" download='NRBGone_B1.rar'>NRBGone</a>
 
 Gameplay enhancement mod.
 
@@ -205,10 +154,7 @@ This mod decreases the possibility of encountering non-registered hits.
 
 Installation instructions: \>Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [PingControl]({{ site.downloads_url | append: "/mods/PingControl.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/PingControl.rar" }}' target='_blank' rel="nofollow" download='PingControl.rar'>PingControl</a>
 
 Gameplay enhancement mod.
 
@@ -218,10 +164,7 @@ This mod allows you to set the minimum and maximum allowed latency (ping) on you
 
 Readme file included.
 
-  
-  
-
-## [Player Name Cleaner]({{ site.downloads_url | append: "/mods/PlayerNameCleaner.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/PlayerNameCleaner.rar" }}' target='_blank' rel="nofollow" download='PlayerNameCleaner.rar'>Player Name Cleaner</a>
 
 Gameplay enhancement mod.
 
@@ -231,10 +174,7 @@ This mod removes color tags and admin specified filter strings from the names of
 
 Readme file included.
 
-  
-  
-
-## [Promod v1rc3]({{ site.downloads_url | append: "/mods/promod_v1rc3.zip" }})
+## <a href='{{ site.downloads_url | append: "/mods/promod_v1rc3.zip" }}' target='_blank' rel="nofollow" download='promod_v1rc3.zip'>Promod v1rc3</a>
 
 Gameplay enhancement mod.
 
@@ -242,10 +182,7 @@ This mod does many things. A few examples: you can set chaingun damage, pods dam
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Promod v1rc4]({{ site.downloads_url | append: "/mods/promod_v1rc4.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/promod_v1rc4.rar" }}' target='_blank' rel="nofollow" download='promod_v1rc4.rar'>Promod v1rc4</a>
 
 Gameplay enhancement mod.
 
@@ -253,10 +190,7 @@ Upgrade of the previous promod. Only contains the .u file, so it can not be used
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Promod v1rc5]({{ site.downloads_url | append: "/mods/promod_v1rc5.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/promod_v1rc5.rar" }}' target='_blank' rel="nofollow" download='promod_v1rc5.rar'>Promod v1rc5</a>
 
 Gameplay enhancement mod.
 
@@ -264,10 +198,7 @@ Upgrade of the previous promod. Only contains the .u file, so it can not be used
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Promod v1rc6]({{ site.downloads_url | append: "/mods/promod_v1rc6.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/promod_v1rc6.rar" }}' target='_blank' rel="nofollow" download='promod_v1rc6.rar'>Promod v1rc6</a>
 
 Gameplay enhancement mod.
 
@@ -275,10 +206,7 @@ Upgrade of the previous promod.
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Rypelcam]({{ site.downloads_url | append: "/mods/RypelCam.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/RypelCam.rar" }}' target='_blank' rel="nofollow" download='RypelCam.rar'>Rypelcam</a>
 
 Spectator mod.
 
@@ -286,10 +214,7 @@ This mod allows you to "fly around freely" in a recorded demo and by doing this,
 
 **Installation instructions:** Read the accompanied readme file for instructions.
 
-  
-  
-
-## [ServerLogoTVa]({{ site.downloads_url | append: "/mods/ServerLogoTVa.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/ServerLogoTVa.rar" }}' target='_blank' rel="nofollow" download='ServerLogoTVa.rar'>ServerLogoTVa</a>
 
 Server management mod.
 
@@ -299,23 +224,17 @@ This mod allows you to set an enty logo, which will be displayed, when players j
 
 Readme file included.
 
-  
-  
-
 ## [Server Status](https://github.com/jkelin/TribesVengeanceServerStatus)
 
 Server management mod.
 
 This mod sends information to the [TribesRevengeance]({{ "/" | relative_url  }}) domain, so we can display ingame player performances on our [statistics]({{ site.stats_url }}) page.
 
-s 
+s
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Specmod]({{ site.downloads_url | append: "/mods/SpecMod.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/SpecMod.rar" }}' target='_blank' rel="nofollow" download='SpecMod.rar'>Specmod</a>
 
 Spectator enhancement mod.
 
@@ -325,10 +244,7 @@ This mod allowes you to speed up and slow down with your mouse wheel, set up cam
 
 Readme file included.
 
-  
-  
-
-## [tvbp\_b7]({{ site.downloads_url | append: "/mods/tvbp_b7.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/tvbp_b7.rar" }}' target='_blank' rel="nofollow" download='tvbp_b7.rar'>tvbp_b7</a>
 
 Gameplay enhancement mod.
 
@@ -338,10 +254,7 @@ This mod allows you to set many different game types, such as Team Rabbit, CTF+,
 
 Readme file included.
 
-  
-  
-
-## [UCModv3]({{ site.downloads_url | append: "/mods/ucmodv3.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/ucmodv3.rar" }}' target='_blank' rel="nofollow" download='ucmodv3.rar'>UCModv3</a>
 
 Gameplay enhancement mod.
 
@@ -351,10 +264,7 @@ This mod allows you to enable, disable or change vehicles. Furthermore you can d
 
 Readme file included.
 
-  
-  
-
-## [Vanilla b1]({{ site.downloads_url | append: "/mods/vanilla_b1.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/vanilla_b1.rar" }}' target='_blank' rel="nofollow" download='vanilla_b1.rar'>Vanilla b1</a>
 
 Gameplay enhancement mod.
 
@@ -362,10 +272,7 @@ This mod allows you to enable degrapple, to disable vehicles, to reduce grappler
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Vanilla b2]({{ site.downloads_url | append: "/mods/vanilla_b2.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/vanilla_b2.rar" }}' target='_blank' rel="nofollow" download='vanilla_b2.rar'>Vanilla b2</a>
 
 Gameplay enhancement mod.
 
@@ -373,23 +280,17 @@ This mod has the same features as the b1 version, but comes with code improvemen
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [Vanilla b3]({{ site.downloads_url | append: "/mods/vanilla_b3.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/vanilla_b3.rar" }}' target='_blank' rel="nofollow" download='vanilla_b3.rar'>Vanilla b3</a>
 
 Gameplay enhancement mod.
 
-This mod is an upgrade of the previous two versions. This mod has antics\_v3 build in and improved, and also has the same options as the previous versions.
+This mod is an upgrade of the previous two versions. This mod has antics_v3 build in and improved, and also has the same options as the previous versions.
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
 Readme file included.
 
-  
-  
-
-## [X2 v1]({{ site.downloads_url | append: "/mods/x2_v1.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/x2_v1.rar" }}' target='_blank' rel="nofollow" download='x2_v1.rar'>X2 v1</a>
 
 Gameplay enhancement mod.
 
@@ -399,10 +300,7 @@ This mod allows you to set degrapple health points, increases disc speed and com
 
 Readme file included.
 
-  
-  
-
-## [X2 v3rc6]({{ site.downloads_url | append: "/mods/x2_v3rc6.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/x2_v3rc6.rar" }}' target='_blank' rel="nofollow" download='x2_v3rc6.rar'>X2 v3rc6</a>
 
 Gameplay enhancement mod.
 
@@ -410,10 +308,7 @@ This mod allows you to tweak many weapons, projectiles and vehicles. Furthermore
 
 **Installation instructions:** Extract the files to your `...\VUGames\Tribes Vengeance\Program\Bin` folder.
 
-  
-  
-
-## [X2 v3wf]({{ site.downloads_url | append: "/mods/x2_v3wf.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/x2_v3wf.rar" }}' target='_blank' rel="nofollow" download='x2_v3wf.rar'>X2 v3wf</a>
 
 Gameplay enhancement mod.
 
@@ -423,10 +318,7 @@ This mod is analog to the x2 v3rc6 version, only has a few options less.
 
 Readme file included.
 
-  
-  
-
-## [X2 Mutator]({{ site.downloads_url | append: "/mods/x2mutator.rar" }})
+## <a href='{{ site.downloads_url | append: "/mods/x2mutator.rar" }}' target='_blank' rel="nofollow" download='x2mutator.rar'>X2 Mutator</a>
 
 Gameplay enhancement mod.
 

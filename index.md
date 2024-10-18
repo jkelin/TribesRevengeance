@@ -10,7 +10,7 @@ Welcome to TribesRevengeance! In here, you will find all possible Tribes: Vengea
 
 <!-- **To get started playing, [download Tribes: Vengeance here]({{ site.downloads_url | append: "/TribesVengeance.zip" }})** -->
 
-<a name="download-tv" class="button is-link is-large is-outlined is-fullwidth" rel="nofollow" type="application/octet-stream" download="TribesRevengeance.zip" href="{{ site.download_game_url }}">
+<a name="download-tv" class="button is-link is-large is-outlined is-fullwidth" rel="nofollow" type="application/octet-stream" download="TribesRevengeance.zip" target="_blank" href="{{ site.download_game_url }}">
   <span>Download Tribes: Vengeance</span>
 </a>
 
@@ -24,7 +24,7 @@ First time hearing about T:V? Interested to see what the game is like? Then be s
 
 ### Returing to the fields of Vengeance?
 
-Tribes is still active and as fun as ever! Dust off your jetpack, grab your trusty Spinfusor and come join the fun. 
+Tribes is still active and as fun as ever! Dust off your jetpack, grab your trusty Spinfusor and come join the fun.
 
 ## 2013 Exodus
 
@@ -36,6 +36,6 @@ This site is [fully open source and hosted on GitHub]({{ "https://github.com/" |
 
 As such, it should be virtually impossible for it's content to get lost (like it happend to many of it's predecessors) because when it's current maintainer goes dark - anyone can pickup the torch again!
 
-<a name="download-tv" class="button is-link is-large is-outlined is-fullwidth" rel="nofollow" type="application/octet-stream" download="TribesRevengeance.zip" href="{{ site.download_game_url }}">
+<a name="download-tv" class="button is-link is-large is-outlined is-fullwidth" rel="nofollow" type="application/octet-stream" download="TribesRevengeance.zip" target="_blank" href="{{ site.download_game_url }}">
   <span>Download Tribes: Vengeance</span>
 </a>

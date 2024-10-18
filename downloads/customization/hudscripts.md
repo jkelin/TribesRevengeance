@@ -10,51 +10,30 @@ On this page you will find all available HUD scripts for Tribes Vengeance. Click
 
 Further description and instructions are coming soon!
 
-  
-  
-
-## [Flag HUD]({{ site.downloads_url | append: "/Customization/HUD addons/FlagHUD.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/HUD addons/FlagHUD.zip" }}' target='_blank' rel="nofollow" download='FlagHUD.zip'>Flag HUD</a>
 
 Shows the current status of the flags. Readme included.
 
-
-  
-
-## [HUDstuff]({{ site.downloads_url | append: "/Customization/Customization/HUD addons/HUDstuff.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/Customization/HUD addons/HUDstuff.zip" }}' target='_blank' rel="nofollow" download='HUDstuff.zip'>HUDstuff</a>
 
 HUD script. Readme included.
 
-  
-  
-
-## [ingHUD]({{ site.downloads_url | append: "/Customization/Customization/HUD addons/ingHUD.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/Customization/HUD addons/ingHUD.zip" }}' target='_blank' rel="nofollow" download='ingHUD.zip'>ingHUD</a>
 
 HUD script. Readme included. Requires you to have HUDstuff installed first!
 
-  
-  
-
-## [HUDstuff]({{ site.downloads_url | append: "/Customization/HUD addons/HUDstuff.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/HUD addons/HUDstuff.zip" }}' target='_blank' rel="nofollow" download='HUDstuff.zip'>HUDstuff</a>
 
 HUD script. Readme included.
 
-  
-  
-
-## [Ping HUD]({{ site.downloads_url | append: "/Customization/HUD addons/PingHUD101.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/HUD addons/PingHUD101.zip" }}' target='_blank' rel="nofollow" download='PingHUD101.zip'>Ping HUD</a>
 
 HUD script. Readme included.
 
-  
-  
-
-## [Speedbar]({{ site.downloads_url | append: "/Customization/Customization/HUD addons/SpeedBar.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/Customization/HUD addons/SpeedBar.zip" }}' target='_blank' rel="nofollow" download='SpeedBar.zip'>Speedbar</a>
 
 HUD script. Readme included.
 
-  
-  
-
-## [Old Speedbar]({{ site.downloads_url | append: "/Customization/Customization/HUD addons/SpeedBar_Old.zip" }})
+## <a href='{{ site.downloads_url | append: "/Customization/Customization/HUD addons/SpeedBar_Old.zip" }}' target='_blank' rel="nofollow" download='SpeedBar_Old.zip'>Old Speedbar</a>
 
 HUD script. Readme included.
